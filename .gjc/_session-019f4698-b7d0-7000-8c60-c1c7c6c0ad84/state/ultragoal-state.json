@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "skill": "ultragoal",
+  "current_phase": "blocked",
+  "active": true,
+  "handoff_from": "ralplan",
+  "handoff_at": "2026-07-09T15:06:40.097Z",
+  "updated_at": "2026-07-10T00:29:41.004Z",
+  "receipt": {
+    "version": 1,
+    "skill": "ultragoal",
+    "owner": "gjc-runtime",
+    "command": "gjc ultragoal (reconcile)",
+    "state_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f4698-b7d0-7000-8c60-c1c7c6c0ad84/skill-active-state.json",
+    "storage_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f4698-b7d0-7000-8c60-c1c7c6c0ad84/ultragoal-state.json",
+    "mutated_at": "2026-07-10T00:29:41.004Z",
+    "fresh_until": "2026-07-10T00:59:41.004Z",
+    "status": "fresh",
+    "mutation_id": "ultragoal:reconcile:2026-07-10T00:29:41.004Z",
+    "verb": "reconcile",
+    "from_phase": "blocked",
+    "to_phase": "blocked",
+    "forced": true,
+    "content_sha256": {
+      "algorithm": "sha256",
+      "value": "c09175a34fb5cdac31c6e9fdc6186d7a893a69fbf3fdd06fed13c24adc76a814",
+      "covered_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f4698-b7d0-7000-8c60-c1c7c6c0ad84/state/ultragoal-state.json",
+      "computed_at": "2026-07-10T00:29:41.006Z"
+    }
+  },
+  "session_id": "019f4698-b7d0-7000-8c60-c1c7c6c0ad84",
+  "status": "blocked",
+  "goals": [
+    {
+      "id": "G001",
+      "title": "Prepare logs and sanitize submission artifacts",
+      "status": "complete"
+    },
+    {
+      "id": "G002",
+      "title": "Build and validate three independent plugin packages",
+      "status": "complete"
+    },
+    {
+      "id": "G003",
+      "title": "Verify live form semantics and stage three submissions in Aside",
+      "status": "complete"
+    },
+    {
+      "id": "G004",
+      "title": "Final submit gate and receipt capture",
+      "status": "blocked"
+    }
+  ],
+  "counts": {
+    "pending": 0,
+    "active": 0,
+    "complete": 3,
+    "failed": 0,
+    "blocked": 1,
+    "review_blocked": 0,
+    "superseded": 0
+  },
+  "ledger_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f4698-b7d0-7000-8c60-c1c7c6c0ad84/ultragoal/ledger.jsonl",
+  "brief_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f4698-b7d0-7000-8c60-c1c7c6c0ad84/ultragoal/brief.md",
+  "goals_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f4698-b7d0-7000-8c60-c1c7c6c0ad84/ultragoal/goals.json",
+  "gjc_objective": "Complete the durable ultragoal plan in .gjc/ultragoal/goals.json, including later accepted/appended stories, under the original brief constraints; use .gjc/ultragoal/ledger.jsonl as the audit trail.",
+  "nudge_budget": 10,
+  "nudge_count": 0,
+  "nudge_remaining": 10,
+  "nudge_goal_id": "G004",
+  "nudge_target_kind": "story",
+  "latestLedgerEvent": {
+    "event": "blocker_classified",
+    "goalId": "G004",
+    "timestamp": "2026-07-10T00:29:32.396Z",
+    "evidence": "Final submission requires explicit user approval because clicking 제출 is irreversible. No explicit final-submit approval is present; the user must approve submitting all three company submissions or specify a subset before G004 can proceed."
+  },
+  "state_revision": 10
+}

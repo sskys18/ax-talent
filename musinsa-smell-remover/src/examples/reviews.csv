@@ -1,0 +1,23 @@
+product_id,review_keywords,commonness_signal,positive_signal
+P001,"everyone has it;safe fit;daily pants",92,88
+P002,"common campus look;comfortable;logo tee",86,82
+P003,"classic replica;seen often;easy match",80,85
+P004,"basic inner;cheap;plain",70,78
+P005,"nice color;breathable;not too loud",35,84
+P006,"texture good;less common;summer workwear",30,80
+P007,"mature;date friendly;less sneaker-like",25,76
+P008,"useful color;subtle;not common black",32,79
+P009,"cool fabric;stands out quietly;date shirt",29,83
+P010,"easy pants;clean;not too wide",45,81
+P011,"popular sneaker;comfortable;trendy",65,86
+P012,"soft drape;clean;slightly different",31,82
+P013,"preppy;not common in street looks;comfortable",28,78
+P014,"lightweight;good color;summer date",24,77
+P015,"classic but less cloned;soft color",36,80
+P016,"practical;casual;less black",34,75
+P017,"quiet stripe;good collar;fresh",26,82
+P018,"simple tote;natural texture;easy",22,74
+P019,"small detail;not flashy;warm tone",18,72
+P020,"basic black bag;everyone uses;minimal",78,76
+P021,"street logo;common black cap;easy",82,79
+P022,"good texture;warm color;date appropriate",27,81

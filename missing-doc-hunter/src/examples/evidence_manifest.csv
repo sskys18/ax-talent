@@ -1,0 +1,11 @@
+file_name,file_type,period,entity,keywords,columns,source,approval_status,notes
+AR_Aging_20260331.xlsx,xlsx,2026-03-31,ACME Korea Co.,receivable aging ar 90+ collectability assessment,customer_id;invoice_id;due_date;amount;aging_days,client-erp,approved,AR aging report with collectability flags for 90+ day balances
+Bank_Receipts_April.csv,csv,2026-04-30,ACME Korea Co.,subsequent cash receipt bank receivable,customer_id;invoice_id;receipt_date;amount,bank-statement,approved,Post period-end cash receipts supporting collectability
+Customer_Terms_Top10.pdf,pdf,2026-03-31,ACME Korea Co.,customer contract terms receivable credit,,contract,approved,Signed customer terms for top 10 customers
+Sales_Invoices_March.zip,zip,2026-03-31,ACME Korea Co.,revenue cutoff sales invoice tax invoice,invoice_id;revenue_recognition_date;amount,client-erp,approved,March tax invoices for cutoff sample
+Delivery_Notes_March.pdf,pdf,2026-03-31,ACME Korea Co.,delivery shipment cutoff evidence,shipment_date;invoice_id,logistics,approved,Delivery notes for cutoff sample transactions
+Contract_Terms_Partial.pdf,pdf,2026-02-28,ACME Korea Co.,contract cutoff revenue terms,,contract,approved,Partial contract set only; some sampled contracts not provided
+Manual_JE_List.xlsx,xlsx,2026-03-31,ACME Korea Co.,manual journal entry je preparer,journal_id;preparer;amount;date,client-erp,pending,Manual journal entry list; reviewer and approval columns blank
+Missing_Approval_Log_Placeholder.txt,txt,2026-03-31,ACME Korea Co.,journal approval reviewer log,,placeholder,missing,Placeholder only - reviewer approval log not provided by client
+Inventory_Aging_Q1.xlsx,xlsx,2026-03-31,ACME Korea Co.,inventory aging slow moving stock,item_id;aging_days;quantity;amount,client-erp,approved,Slow-moving inventory aging list only; provision workings not provided
+Related_Party_Transactions.xlsx,xlsx,2026-03-31,ACME US Inc.,related party counterparty transaction settlement,counterparty;contract_id;transaction_amount;terms;settlement_date,client-erp,approved,Related-party transactions for the US entity - wrong entity for this request

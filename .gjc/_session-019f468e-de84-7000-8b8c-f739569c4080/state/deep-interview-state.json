@@ -1,0 +1,719 @@
+{
+  "active": true,
+  "version": 2,
+  "current_phase": "interviewing",
+  "skill": "deep-interview",
+  "cwd": "/Users/sskys/Mine/ax-talent",
+  "updated_at": "2026-07-09T11:46:36.530Z",
+  "session_id": "019f468e-de84-7000-8b8c-f739569c4080",
+  "threshold": 0.05,
+  "threshold_source": "default",
+  "receipt": {
+    "version": 1,
+    "skill": "deep-interview",
+    "owner": "gjc-state-cli",
+    "command": "gjc state deep-interview write",
+    "state_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f468e-de84-7000-8b8c-f739569c4080/skill-active-state.json",
+    "storage_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f468e-de84-7000-8b8c-f739569c4080/deep-interview-state.json",
+    "mutated_at": "2026-07-09T11:46:36.530Z",
+    "fresh_until": "2026-07-09T12:16:36.530Z",
+    "status": "fresh",
+    "mutation_id": "deep-interview:2026-07-09T11:46:36.530Z",
+    "content_sha256": {
+      "algorithm": "sha256",
+      "value": "233ac0b9d0e676c30f584294cbfd73f6b0a95801610611e2d3fb213c9df1f167",
+      "covered_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f468e-de84-7000-8b8c-f739569c4080/state/deep-interview-state.json",
+      "computed_at": "2026-07-09T11:46:36.534Z"
+    }
+  },
+  "state": {
+    "threshold": 0.05,
+    "threshold_source": "default",
+    "rounds": [
+      {
+        "round_key": "musinsa-public-direction-20260709::rid:round-0-topology",
+        "round_id": "round-0-topology",
+        "round": 0,
+        "question_id": "round_0_topology",
+        "question_text": "Deep Interview threshold: 5% (source: default)\n\nStarting deep interview. I will clarify the hackathon direction before any changes. Public-context assumption so far: Musinsa appears to care about platform growth, offline/global expansion, partner-brand health, and avoiding fashion homogeneity or discount-only differentiation. Repo context: `musinsa-smell-remover` already exists as a local-data Codex workflow that scores clone-look risk and outputs CSV, JSON, and Markdown.\n\nRound 0 | Topology confirmation | Ambiguity: not scored yet\n\nI am reading this as 4 top-level components:\n1. Company-situation hypothesis: what public Musinsa signals we assume for the hackathon story.\n2. Internal user and use case: which Musinsa team would plausibly use this and for what decision.\n3. Plugin value proposition: what the Codex workflow should prove beyond a consumer fashion recommender.\n4. Evidence and safety boundary: how to validate the demo without overclaiming, insulting users, or pretending to have private Musinsa data.\n\nIs that topology right? Should any component be added, removed, merged, split, or explicitly deferred?",
+        "question_hash": "45517841c322eb69ac50a7a92a640d93",
+        "answer_hash": "b1ed5bc855e8bc8c563d48c5c0ee8a4d",
+        "selected_options": [
+          "Add a business KPI or judging criteria component"
+        ],
+        "component": "topology",
+        "dimension": "confirmation",
+        "ambiguity_at_ask": 1,
+        "lifecycle": "answered",
+        "answered_at": "2026-07-09T11:36:29.766Z"
+      },
+      {
+        "round_key": "musinsa-public-direction-20260709::rid:round-1-kpi",
+        "round_id": "round-1-kpi",
+        "round": 1,
+        "question_id": "round_1_kpi",
+        "question_text": "Round 1 | Component: Business KPI or judging criteria | Targeting: success criteria | Why now: this is the weakest component because the prototype can be technically correct but still fail the hackathon if the judging metric is unclear. | Ambiguity: 100%\n\nWhich business-relevant success frame should anchor the hackathon direction?",
+        "question_hash": "c29977430bd859be8bf1e08ce99ae03b",
+        "answer_hash": "7c6048d2cad0b21f3050dcd74e517df5",
+        "selected_options": [
+          "Styling/editorial support: create less-cloned but wearable content concepts"
+        ],
+        "component": "business-kpi-judging-criteria",
+        "dimension": "success criteria",
+        "ambiguity_at_ask": 1,
+        "lifecycle": "answered",
+        "answered_at": "2026-07-09T11:38:00.656Z"
+      },
+      {
+        "round": 1,
+        "component": "business-kpi-judging-criteria",
+        "dimension": "success criteria",
+        "question": "Which business-relevant success frame should anchor the hackathon direction?",
+        "answer": "Styling/editorial support: create less-cloned but wearable content concepts",
+        "status": "scored",
+        "scores": {
+          "goal": 0.35,
+          "constraints": 0.25,
+          "criteria": 0.15,
+          "context": 0.55
+        },
+        "ambiguity": 0.695,
+        "triggers": [],
+        "ontology": {
+          "entities": [
+            {
+              "name": "Musinsa",
+              "type": "company context",
+              "fields": [
+                "public strategy",
+                "platform ecosystem"
+              ],
+              "relationships": [
+                "Musinsa has internal styling/editorial workflows"
+              ]
+            },
+            {
+              "name": "StylingEditorialTeam",
+              "type": "internal user",
+              "fields": [
+                "content concepts",
+                "wearability",
+                "clone-look risk"
+              ],
+              "relationships": [
+                "StylingEditorialTeam uses Plugin for concept direction"
+              ]
+            },
+            {
+              "name": "Plugin",
+              "type": "workflow tool",
+              "fields": [
+                "local data inputs",
+                "risk scores",
+                "recommendation outputs"
+              ],
+              "relationships": [
+                "Plugin supports StylingEditorialTeam"
+              ]
+            },
+            {
+              "name": "CloneLookRisk",
+              "type": "metric",
+              "fields": [
+                "commonness",
+                "popularity",
+                "avoid factors"
+              ],
+              "relationships": [
+                "Plugin calculates CloneLookRisk"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "round_key": "musinsa-public-direction-20260709::rid:round-2-evidence-boundary",
+        "round_id": "round-2-evidence-boundary",
+        "round": 2,
+        "question_id": "round_2_evidence_boundary",
+        "question_text": "Round 1 complete.\n\n| Dimension | Score | Weight | Weighted | Gap |\n|-----------|-------|--------|----------|-----|\n| Goal | 0.35 | 0.35 | 0.12 | Public Musinsa hypothesis is still broad. |\n| Constraints | 0.25 | 0.25 | 0.06 | We have not set the claims we refuse to make. |\n| Success Criteria | 0.15 | 0.25 | 0.04 | Validation and judging proof are still weak. |\n| Context | 0.55 | 0.15 | 0.08 | Repo and public context are partially mapped. |\n| **Ambiguity** | | | **100% -> 69.5% down** | No trigger |\n\nTopology: targeted Business KPI or judging criteria | Active: 5 | Deferred: 0 | Next rotation after: business-kpi-judging-criteria\nOntology: 4 entities | Stability: N/A | New: 4 | Changed: 0 | Stable: 0\nMilestone: initial -> initial\n\nRound 2 | Component: Evidence and safety boundary | Targeting: success criteria | Why now: the most dangerous ambiguity is not the algorithm, it is what the demo is allowed to claim from public info and sample local data. | Ambiguity: 69.5%\n\nWhat evidence standard should the hackathon pitch use for Musinsa assumptions?",
+        "question_hash": "05ad9ea01d1532d86099ee64ee49de6d",
+        "answer_hash": "b00180f24e2988deb8d63f9cd365a853",
+        "selected_options": [
+          "Market research framing: compare public Musinsa signals with demo outputs"
+        ],
+        "component": "evidence-safety-boundary",
+        "dimension": "success criteria",
+        "ambiguity_at_ask": 0.695,
+        "lifecycle": "answered",
+        "answered_at": "2026-07-09T11:38:51.777Z"
+      },
+      {
+        "round_key": "musinsa-public-direction-20260709::rid:round-2-refine",
+        "round_id": "round-2-refine",
+        "round": 2,
+        "question_id": "round_2_refine",
+        "question_text": "I interpret your added hackathon brief like this:\n\nDecision: The plugin should be pitched as a Codex plugin that solves a public, verifiable problem connected to Musinsa, its industry, or its customers.\nReasoning: The preliminary round is judged on whether the selected company's real problem is proven from public sources, not on pretending we have private Musinsa internal data.\nConstraints: Use public and verifiable evidence; do not claim Musinsa endorsement; connect the plugin output to a clearly stated company, industry, or customer problem.\nOut of scope: A pure consumer shopping app, private-data assumptions, or a vague “Musinsa would use this” claim without public evidence.\nCodebase context: The current plugin already reads local data and outputs clone risk scores and recommendations, so the direction should sharpen the public problem proof and hackathon pitch rather than rebuild the core tool.\n\nDid I preserve your intent correctly?",
+        "question_hash": "ad1d71ad125b00e33599412b00ec7b34",
+        "answer_hash": "aac666b2c394085fb109b52b466eb0bd",
+        "selected_options": [
+          "Send as-is"
+        ],
+        "component": "evidence-safety-boundary",
+        "dimension": "success criteria",
+        "ambiguity_at_ask": 0.695,
+        "lifecycle": "answered",
+        "answered_at": "2026-07-09T11:45:23.383Z"
+      },
+      {
+        "round": 2,
+        "component": "evidence-safety-boundary",
+        "dimension": "success criteria",
+        "question": "What evidence standard should the hackathon pitch use for Musinsa assumptions?",
+        "answer": "Market research framing, refined as: solve a public, verifiable problem connected to Musinsa, its industry, or its customers; no private-data or endorsement claims.",
+        "status": "scored",
+        "scores": {
+          "goal": 0.55,
+          "constraints": 0.5,
+          "criteria": 0.45,
+          "context": 0.65
+        },
+        "ambiguity": 0.4725,
+        "triggers": [],
+        "ontology": {
+          "entities": [
+            {
+              "name": "Musinsa",
+              "type": "company context",
+              "fields": [
+                "public strategy",
+                "platform ecosystem",
+                "public verifiable problem"
+              ],
+              "relationships": [
+                "Musinsa operates in FashionCommerceIndustry"
+              ]
+            },
+            {
+              "name": "FashionCommerceIndustry",
+              "type": "industry context",
+              "fields": [
+                "trend concentration",
+                "content differentiation",
+                "public evidence"
+              ],
+              "relationships": [
+                "FashionCommerceIndustry has public problems relevant to Musinsa"
+              ]
+            },
+            {
+              "name": "StylingEditorialTeam",
+              "type": "internal user",
+              "fields": [
+                "content concepts",
+                "wearability",
+                "clone-look risk"
+              ],
+              "relationships": [
+                "StylingEditorialTeam uses Plugin for concept direction"
+              ]
+            },
+            {
+              "name": "Plugin",
+              "type": "workflow tool",
+              "fields": [
+                "local data inputs",
+                "risk scores",
+                "recommendation outputs",
+                "public-evidence framing"
+              ],
+              "relationships": [
+                "Plugin addresses HackathonBrief"
+              ]
+            },
+            {
+              "name": "HackathonBrief",
+              "type": "constraint",
+              "fields": [
+                "public evidence",
+                "selected company",
+                "Codex plugin submission"
+              ],
+              "relationships": [
+                "HackathonBrief constrains Plugin claims"
+              ]
+            },
+            {
+              "name": "CloneLookRisk",
+              "type": "metric",
+              "fields": [
+                "commonness",
+                "popularity",
+                "avoid factors"
+              ],
+              "relationships": [
+                "Plugin calculates CloneLookRisk"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "round": 1,
+        "component": "business-kpi-judging-criteria",
+        "dimension": "success criteria",
+        "question": "Which business-relevant success frame should anchor the hackathon direction?",
+        "answer": "Styling/editorial support: create less-cloned but wearable content concepts",
+        "status": "scored",
+        "scores": {
+          "goal": 0.35,
+          "constraints": 0.25,
+          "criteria": 0.15,
+          "context": 0.55
+        },
+        "ambiguity": 0.695,
+        "triggers": []
+      },
+      {
+        "round": 2,
+        "component": "evidence-safety-boundary",
+        "dimension": "success criteria",
+        "question": "What evidence standard should the hackathon pitch use for Musinsa assumptions?",
+        "answer": "Market research framing, refined as: solve a public, verifiable problem connected to Musinsa, its industry, or its customers; no private-data or endorsement claims.",
+        "status": "scored",
+        "scores": {
+          "goal": 0.55,
+          "constraints": 0.5,
+          "criteria": 0.45,
+          "context": 0.65
+        },
+        "ambiguity": 0.4725,
+        "triggers": []
+      },
+      {
+        "round": 3,
+        "component": "evidence-safety-boundary",
+        "dimension": "success criteria",
+        "question": "User added hackathon evidence deliverable requirement.",
+        "answer": "Add PROBLEM.md to each project, with problem statement, 3-5 public sources including URL, publisher, quote, and a mapping table from public problem to plugin functionality. This is half of preliminary scoring.",
+        "status": "scored",
+        "scores": {
+          "goal": 0.62,
+          "constraints": 0.62,
+          "criteria": 0.62,
+          "context": 0.68
+        },
+        "ambiguity": 0.383,
+        "triggers": [
+          "D scope expansion: PROBLEM.md deliverable across each project"
+        ]
+      }
+    ],
+    "established_facts": [
+      {
+        "id": "fact-1",
+        "source": "repo",
+        "evidence": "musinsa-smell-remover/README.md:3-23",
+        "text": "Current plugin frames Musinsa smell as clone-look risk and generates local CSV/JSON based recommendations."
+      },
+      {
+        "id": "fact-2",
+        "source": "repo",
+        "evidence": "musinsa-smell-remover/src/skills/musinsa-smell-remover/SKILL.md:3-62",
+        "text": "Current skill is a data-driven workflow, not a generic fashion chatbot, and writes clone risk scores, recommendation JSON, and a Markdown report."
+      },
+      {
+        "id": "fact-3",
+        "source": "public",
+        "evidence": "Straits Times/Bloomberg article, 2026-07 public web read",
+        "text": "Public reporting frames Musinsa as expanding offline, global, and brand-incubation channels ahead of IPO, with overseas and store growth as strategic priorities."
+      },
+      {
+        "id": "fact-4",
+        "source": "public",
+        "evidence": "EpicKor public-information deep dive, July 2026 web read",
+        "text": "Public analysis describes Musinsa as a platform ecosystem spanning marketplace, private label, curated platforms, offline retail, global commerce, and partner-brand support."
+      },
+      {
+        "id": "fact-5",
+        "source": "round-0",
+        "evidence": "User selected Add a business KPI or judging criteria component",
+        "text": "Hackathon direction must include a business KPI or judging criteria component."
+      },
+      {
+        "id": "fact-6",
+        "source": "round-1",
+        "evidence": "User selected Styling/editorial support",
+        "text": "The hackathon direction should anchor on styling/editorial support for less-cloned but wearable content concepts."
+      },
+      {
+        "id": "fact-7",
+        "source": "round-2",
+        "evidence": "User provided AX hackathon task statement and confirmed interpretation",
+        "text": "The hackathon submission must solve a public, verifiable problem connected to Musinsa, its industry, or its customers without claiming private data or endorsement."
+      },
+      {
+        "id": "fact-8",
+        "source": "round-3",
+        "evidence": "User instructed to add PROBLEM.md to each project",
+        "text": "Each project must include PROBLEM.md with problem statement, 3-5 public sources containing URL, publisher, and quote, plus a mapping table from public problem to plugin features; this accounts for half of preliminary score."
+      }
+    ],
+    "interview_id": "musinsa-public-direction-20260709",
+    "type": "brownfield",
+    "initial_idea": "Assume Musinsa company situation from public information and clarify hackathon direction for the musinsa-smell-remover Codex workflow plugin.",
+    "current_ambiguity": 0.383,
+    "codebase_context": {
+      "repo_findings": [
+        "musinsa-smell-remover/README.md positions the project as a local-data Codex workflow for clone-look risk, not a shopping app.",
+        "musinsa-smell-remover/src/outputs/musinsa_smell_removal_report.md already produces a demo report with average risk, recommended outfit, budget check, and human review notes."
+      ],
+      "public_context": [
+        "Public sources suggest Musinsa's likely priorities include global/offline expansion, brand ecosystem health, private-label balance, partner-brand trust, discount dependence, and tourist-facing retail."
+      ]
+    },
+    "topology": {
+      "status": "confirmed",
+      "confirmed_at": "2026-07-09T11:24:30Z",
+      "components": [
+        {
+          "id": "company-situation-hypothesis",
+          "name": "Company-situation hypothesis",
+          "description": "Public-info assumptions about Musinsa's likely strategic priorities and pain points for the hackathon story.",
+          "status": "active",
+          "evidence": [
+            "user asked to assume company situation from public information",
+            "public sources mention offline/global expansion, partner ecosystem, private label, discount and trust risks"
+          ],
+          "clarity_scores": {
+            "goal": 0.55,
+            "constraints": 0.55,
+            "criteria": 0.45,
+            "context": 0.72
+          },
+          "weakest_dimension": "criteria"
+        },
+        {
+          "id": "internal-user-use-case",
+          "name": "Internal user and use case",
+          "description": "The plausible Musinsa team, workflow moment, and decision this plugin supports.",
+          "status": "active",
+          "evidence": [
+            "user selected styling/editorial support in Round 1"
+          ],
+          "clarity_scores": {
+            "goal": 0.75,
+            "constraints": 0.55,
+            "criteria": 0.6,
+            "context": 0.7
+          },
+          "weakest_dimension": "constraints"
+        },
+        {
+          "id": "plugin-value-proposition",
+          "name": "Plugin value proposition",
+          "description": "What the Codex workflow proves beyond a consumer fashion recommender.",
+          "status": "active",
+          "evidence": [
+            "existing README says this is not a shopping app and uses local CSV/JSON outputs",
+            "PROBLEM.md must map public problem to plugin functions"
+          ],
+          "clarity_scores": {
+            "goal": 0.7,
+            "constraints": 0.65,
+            "criteria": 0.7,
+            "context": 0.72
+          },
+          "weakest_dimension": "constraints"
+        },
+        {
+          "id": "evidence-safety-boundary",
+          "name": "Evidence and safety boundary",
+          "description": "Validation and wording boundaries that prevent overclaiming, private-data assumptions, or insulting Musinsa users.",
+          "status": "active",
+          "evidence": [
+            "Round 2 refined answer confirmed public/verifiable evidence standard",
+            "Round 3 added PROBLEM.md public evidence requirement"
+          ],
+          "clarity_scores": {
+            "goal": 0.9,
+            "constraints": 0.9,
+            "criteria": 0.88,
+            "context": 0.82
+          },
+          "weakest_dimension": "criteria"
+        },
+        {
+          "id": "business-kpi-judging-criteria",
+          "name": "Business KPI or judging criteria",
+          "description": "The hackathon success metric or judging frame that makes the prototype feel company-relevant.",
+          "status": "active",
+          "evidence": [
+            "Round 1 user selected styling/editorial support",
+            "Round 2 hackathon brief requires public problem proof",
+            "Round 3 states PROBLEM.md is half of preliminary score"
+          ],
+          "clarity_scores": {
+            "goal": 0.85,
+            "constraints": 0.8,
+            "criteria": 0.9,
+            "context": 0.75
+          },
+          "weakest_dimension": "context"
+        }
+      ],
+      "deferrals": [],
+      "last_targeted_component_id": "evidence-safety-boundary"
+    },
+    "ontology_snapshots": [
+      {
+        "round": 1,
+        "entities": [
+          {
+            "name": "Musinsa",
+            "type": "company context",
+            "fields": [
+              "public strategy",
+              "platform ecosystem"
+            ],
+            "relationships": [
+              "Musinsa has internal styling/editorial workflows"
+            ]
+          },
+          {
+            "name": "StylingEditorialTeam",
+            "type": "internal user",
+            "fields": [
+              "content concepts",
+              "wearability",
+              "clone-look risk"
+            ],
+            "relationships": [
+              "StylingEditorialTeam uses Plugin for concept direction"
+            ]
+          },
+          {
+            "name": "Plugin",
+            "type": "workflow tool",
+            "fields": [
+              "local data inputs",
+              "risk scores",
+              "recommendation outputs"
+            ],
+            "relationships": [
+              "Plugin supports StylingEditorialTeam"
+            ]
+          },
+          {
+            "name": "CloneLookRisk",
+            "type": "metric",
+            "fields": [
+              "commonness",
+              "popularity",
+              "avoid factors"
+            ],
+            "relationships": [
+              "Plugin calculates CloneLookRisk"
+            ]
+          }
+        ],
+        "stability_ratio": null,
+        "matching_reasoning": "Round 1 baseline; all entities are new."
+      },
+      {
+        "round": 2,
+        "entities": [
+          {
+            "name": "Musinsa",
+            "type": "company context",
+            "fields": [
+              "public strategy",
+              "platform ecosystem",
+              "public verifiable problem"
+            ],
+            "relationships": [
+              "Musinsa operates in FashionCommerceIndustry"
+            ]
+          },
+          {
+            "name": "FashionCommerceIndustry",
+            "type": "industry context",
+            "fields": [
+              "trend concentration",
+              "content differentiation",
+              "public evidence"
+            ],
+            "relationships": [
+              "FashionCommerceIndustry has public problems relevant to Musinsa"
+            ]
+          },
+          {
+            "name": "StylingEditorialTeam",
+            "type": "internal user",
+            "fields": [
+              "content concepts",
+              "wearability",
+              "clone-look risk"
+            ],
+            "relationships": [
+              "StylingEditorialTeam uses Plugin for concept direction"
+            ]
+          },
+          {
+            "name": "Plugin",
+            "type": "workflow tool",
+            "fields": [
+              "local data inputs",
+              "risk scores",
+              "recommendation outputs",
+              "public-evidence framing"
+            ],
+            "relationships": [
+              "Plugin addresses HackathonBrief"
+            ]
+          },
+          {
+            "name": "HackathonBrief",
+            "type": "constraint",
+            "fields": [
+              "public evidence",
+              "selected company",
+              "Codex plugin submission"
+            ],
+            "relationships": [
+              "HackathonBrief constrains Plugin claims"
+            ]
+          },
+          {
+            "name": "CloneLookRisk",
+            "type": "metric",
+            "fields": [
+              "commonness",
+              "popularity",
+              "avoid factors"
+            ],
+            "relationships": [
+              "Plugin calculates CloneLookRisk"
+            ]
+          }
+        ],
+        "stability_ratio": 0.67,
+        "matching_reasoning": "Musinsa, StylingEditorialTeam, Plugin, and CloneLookRisk stayed stable; FashionCommerceIndustry and HackathonBrief are new due to the provided hackathon task statement."
+      },
+      {
+        "round": 3,
+        "entities": [
+          {
+            "name": "Musinsa",
+            "type": "company context",
+            "fields": [
+              "public strategy",
+              "platform ecosystem",
+              "public verifiable problem"
+            ],
+            "relationships": [
+              "Musinsa operates in FashionCommerceIndustry"
+            ]
+          },
+          {
+            "name": "FashionCommerceIndustry",
+            "type": "industry context",
+            "fields": [
+              "trend concentration",
+              "content differentiation",
+              "public evidence"
+            ],
+            "relationships": [
+              "FashionCommerceIndustry has public problems relevant to Musinsa"
+            ]
+          },
+          {
+            "name": "StylingEditorialTeam",
+            "type": "internal user",
+            "fields": [
+              "content concepts",
+              "wearability",
+              "clone-look risk"
+            ],
+            "relationships": [
+              "StylingEditorialTeam uses Plugin for concept direction"
+            ]
+          },
+          {
+            "name": "Plugin",
+            "type": "workflow tool",
+            "fields": [
+              "local data inputs",
+              "risk scores",
+              "recommendation outputs",
+              "public-evidence framing"
+            ],
+            "relationships": [
+              "Plugin addresses HackathonBrief"
+            ]
+          },
+          {
+            "name": "HackathonBrief",
+            "type": "constraint",
+            "fields": [
+              "public evidence",
+              "selected company",
+              "Codex plugin submission",
+              "PROBLEM.md scoring"
+            ],
+            "relationships": [
+              "HackathonBrief requires ProblemEvidenceFile"
+            ]
+          },
+          {
+            "name": "ProblemEvidenceFile",
+            "type": "deliverable",
+            "fields": [
+              "problem statement",
+              "3-5 public sources",
+              "URL",
+              "publisher",
+              "quote",
+              "mapping table"
+            ],
+            "relationships": [
+              "ProblemEvidenceFile maps public problem to Plugin functions"
+            ]
+          },
+          {
+            "name": "CloneLookRisk",
+            "type": "metric",
+            "fields": [
+              "commonness",
+              "popularity",
+              "avoid factors"
+            ],
+            "relationships": [
+              "Plugin calculates CloneLookRisk"
+            ]
+          }
+        ],
+        "stability_ratio": 0.86,
+        "matching_reasoning": "Musinsa, FashionCommerceIndustry, StylingEditorialTeam, Plugin, HackathonBrief, and CloneLookRisk stayed stable; ProblemEvidenceFile is new because the user added PROBLEM.md as a required deliverable."
+      }
+    ],
+    "auto_researched_rounds": [],
+    "auto_answered_rounds": [],
+    "lateral_reviews": [],
+    "lateral_panel_failures": 0,
+    "auto_answer_streak": 0,
+    "refined_rounds": [
+      2
+    ],
+    "closure_overrides": [],
+    "ambiguity_milestone": "progress",
+    "architect_failures": 0,
+    "ambiguity_floor": {
+      "floor": 0,
+      "disputed_fact_count": 0,
+      "unscored_active_component_count": 0,
+      "auto_answer_ratio": 0
+    }
+  },
+  "state_revision": 10
+}

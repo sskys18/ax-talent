@@ -1,0 +1,47 @@
+{
+  "user_request": {
+    "gender": "male",
+    "height_cm": 178,
+    "occasion": "summer date",
+    "budget_krw": 200000,
+    "avoid": [
+      "musinsa smell",
+      "black wide pants",
+      "oversized graphic t-shirt",
+      "german army sneakers"
+    ],
+    "divergence_level": "safe-but-different"
+  },
+  "total_price_krw": 199000,
+  "budget_krw": 200000,
+  "budget_ok": true,
+  "items": [
+    {
+      "product_id": "P013",
+      "brand": "Noah",
+      "name": "Navy Rugby Stripe Tee",
+      "category": "top",
+      "price": 85000,
+      "clone_risk_score": 22,
+      "why_less_common_but_wearable": "color choice avoids the default black-gray clone palette; controlled silhouette avoids the overfit formula (risk 22/100)"
+    },
+    {
+      "product_id": "P016",
+      "brand": "Frizmworks",
+      "name": "Olive Ripstop Utility Shorts",
+      "category": "bottom",
+      "price": 69000,
+      "clone_risk_score": 23,
+      "why_less_common_but_wearable": "textured or less-default material; color choice avoids the default black-gray clone palette; controlled silhouette avoids the overfit formula (risk 23/100)"
+    },
+    {
+      "product_id": "P007",
+      "brand": "Mook",
+      "name": "Brown Deck Shoes",
+      "category": "shoes",
+      "price": 45000,
+      "clone_risk_score": 3,
+      "why_less_common_but_wearable": "color choice avoids the default black-gray clone palette; controlled silhouette avoids the overfit formula (risk 3/100)"
+    }
+  ]
+}

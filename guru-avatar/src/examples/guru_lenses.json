@@ -1,0 +1,29 @@
+{
+  "lenses": [
+    {
+      "name": "Buffett Lens",
+      "philosophy": "Look for durable, understandable businesses with a wide moat, strong cash generation, and a price that leaves a margin of safety.",
+      "criteria": ["moat", "cash flow", "margin of safety", "quality"]
+    },
+    {
+      "name": "Peter Lynch Lens",
+      "philosophy": "Invest in what you can understand, favor reasonable growth, and check whether the price is sensible relative to that growth.",
+      "criteria": ["understandable story", "growth", "valuation versus growth"]
+    },
+    {
+      "name": "Dalio Lens",
+      "philosophy": "Think in terms of economic machines and cycles, diversify across uncorrelated exposures, and watch interest-rate sensitivity.",
+      "criteria": ["macro cycle", "diversification", "interest rate sensitivity"]
+    },
+    {
+      "name": "Momentum Lens",
+      "philosophy": "Observe recent trend and price action while remembering that past movement never guarantees future movement.",
+      "criteria": ["trend", "price action", "market reaction"]
+    },
+    {
+      "name": "Dividend Lens",
+      "philosophy": "Prefer stable dividend payers backed by real cash flow and defensive business quality.",
+      "criteria": ["dividend stability", "cash flow", "defensive quality"]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "generated_by": "missing-doc-hunter/doc_matcher.py",
+  "inputs": {
+    "requests": "src/examples/pbc_requests.csv",
+    "evidence": "src/examples/evidence_manifest.csv",
+    "trial_balance": "src/examples/trial_balance.csv"
+  },
+  "trial_balance_available": true,
+  "status_summary": {
+    "Ready": 1,
+    "Partially ready": 2,
+    "Needs human review": 1,
+    "Missing": 1
+  },
+  "requests": [
+    {
+      "request_id": "AR-03",
+      "request_text": "2026-03-31 receivables aging report, 90+ day receivables collectability assessment, customer contract terms, and subsequent cash receipts.",
+      "period": "2026-03-31",
+      "entity": "ACME Korea Co.",
+      "inferred_purpose": "Support existence, valuation, and collectability of accounts receivable at period end.",
+      "request_type": "receivables",
+      "required_evidence": [
+        "Receivables aging report",
+        "90+ day collectability assessment",
+        "Customer contract terms",
+        "Subsequent cash receipts"
+      ],
+      "required_keys": [
+        "customer_id",
+        "invoice_id",
+        "due_date",
+        "amount",
+        "receipt_date"
+      ],
+      "matched_files": [
+        "AR_Aging_20260331.xlsx",
+        "Bank_Receipts_April.csv",
+        "Customer_Terms_Top10.pdf"
+      ],
+      "missing_items": [],
+      "issues": [],
+      "status": "Ready",
+      "next_actions": [
+        "No obvious manifest-level gap found. Perform final human review before relying on the evidence."
+      ],
+      "trial_balance_refs": [
+        {
+          "account": "Accounts receivable",
+          "period": "2026-03-31",
+          "amount": "1250000000"
+        }
+      ]
+    },
+    {
+      "request_id": "CUT-01",
+      "request_text": "Contracts, tax invoices, and delivery evidence for selected revenue cutoff test transactions.",
+      "period": "2026-03-31",
+      "entity": "ACME Korea Co.",
+      "inferred_purpose": "Test that revenue is recognized in the correct period (cutoff).",
+      "request_type": "cutoff",
+      "required_evidence": [
+        "Signed contracts for sampled transactions",
+        "Tax invoices",
+        "Delivery / shipment evidence"
+      ],
+      "required_keys": [
+        "invoice_id",
+        "contract_id",
+        "shipment_date",
+        "revenue_recognition_date"
+      ],
+      "matched_files": [
+        "Sales_Invoices_March.zip",
+        "Delivery_Notes_March.pdf",
+        "Contract_Terms_Partial.pdf"
+      ],
+      "missing_items": [
+        "Linking keys not evidenced: contract_id"
+      ],
+      "issues": [
+        {
+          "type": "missing_required_columns",
+          "detail": "Missing linking keys: contract_id."
+        },
+        {
+          "type": "partial_period_mismatch",
+          "detail": "Contract_Terms_Partial.pdf covers period '2026-02-28', expected '2026-03-31'."
+        }
+      ],
+      "status": "Partially ready",
+      "next_actions": [
+        "Ask client to provide linking keys: contract_id.",
+        "Confirm the correct reporting period (2026-03-31) for mismatched files."
+      ],
+      "trial_balance_refs": [
+        {
+          "account": "Revenue",
+          "period": "2026-03-31",
+          "amount": "8400000000"
+        }
+      ]
+    },
+    {
+      "request_id": "JE-02",
+      "request_text": "Manual journal entry list, preparer information, reviewer approval logs, and approval dates.",
+      "period": "2026-03-31",
+      "entity": "ACME Korea Co.",
+      "inferred_purpose": "Test manual journal entries for appropriate preparation, review, and approval.",
+      "request_type": "journal entry",
+      "required_evidence": [
+        "Manual journal entry list",
+        "Preparer information",
+        "Reviewer approval logs and approval dates"
+      ],
+      "required_keys": [
+        "journal_id",
+        "preparer",
+        "reviewer",
+        "approval_date"
+      ],
+      "matched_files": [
+        "Manual_JE_List.xlsx",
+        "Missing_Approval_Log_Placeholder.txt"
+      ],
+      "missing_items": [
+        "Linking keys not evidenced: reviewer, approval_date"
+      ],
+      "issues": [
+        {
+          "type": "weak_source",
+          "detail": "Missing_Approval_Log_Placeholder.txt is a placeholder, not real evidence."
+        },
+        {
+          "type": "needs_manual_judgment",
+          "detail": "Missing_Approval_Log_Placeholder.txt cannot be relied upon; confirm with the client."
+        },
+        {
+          "type": "missing_required_columns",
+          "detail": "Missing linking keys: reviewer, approval_date."
+        },
+        {
+          "type": "missing_approval",
+          "detail": "Manual_JE_List.xlsx approval status is 'pending'."
+        }
+      ],
+      "status": "Needs human review",
+      "next_actions": [
+        "Ask client to provide linking keys: reviewer, approval_date.",
+        "Obtain reviewer approval logs and approval dates.",
+        "Manually assess weak/placeholder items before relying on them."
+      ],
+      "trial_balance_refs": [
+        {
+          "account": "Manual journal entries",
+          "period": "2026-03-31",
+          "amount": "45000000"
+        }
+      ]
+    },
+    {
+      "request_id": "INV-04",
+      "request_text": "Inventory valuation allowance calculation support and slow-moving inventory list.",
+      "period": "2026-03-31",
+      "entity": "ACME Korea Co.",
+      "inferred_purpose": "Support inventory valuation and the slow-moving/obsolescence allowance.",
+      "request_type": "inventory",
+      "required_evidence": [
+        "Valuation allowance calculation support",
+        "Slow-moving inventory list"
+      ],
+      "required_keys": [
+        "item_id",
+        "aging_days",
+        "nrv",
+        "allowance_amount"
+      ],
+      "matched_files": [
+        "Inventory_Aging_Q1.xlsx"
+      ],
+      "missing_items": [
+        "Linking keys not evidenced: nrv, allowance_amount",
+        "Valuation allowance calculation support"
+      ],
+      "issues": [
+        {
+          "type": "missing_required_columns",
+          "detail": "Missing linking keys: nrv, allowance_amount."
+        },
+        {
+          "type": "missing_document",
+          "detail": "No document covers: Valuation allowance calculation support."
+        }
+      ],
+      "status": "Partially ready",
+      "next_actions": [
+        "Ask client to provide linking keys: nrv, allowance_amount.",
+        "Request document for: Valuation allowance calculation support."
+      ],
+      "trial_balance_refs": [
+        {
+          "account": "Inventory",
+          "period": "2026-03-31",
+          "amount": "640000000"
+        }
+      ]
+    },
+    {
+      "request_id": "RP-05",
+      "request_text": "Related-party transaction listing, contract terms, and settlement evidence.",
+      "period": "2026-03-31",
+      "entity": "ACME Korea Co.",
+      "inferred_purpose": "Support completeness and terms of related-party transactions and settlements.",
+      "request_type": "related party",
+      "required_evidence": [
+        "Related-party transaction listing",
+        "Contract terms",
+        "Settlement evidence"
+      ],
+      "required_keys": [
+        "counterparty",
+        "contract_id",
+        "transaction_amount",
+        "terms"
+      ],
+      "matched_files": [
+        "Related_Party_Transactions.xlsx"
+      ],
+      "missing_items": [
+        "Related-party transaction listing",
+        "Contract terms",
+        "Settlement evidence"
+      ],
+      "issues": [
+        {
+          "type": "entity_mismatch",
+          "detail": "Related_Party_Transactions.xlsx belongs to entity 'ACME US Inc.', expected 'ACME Korea Co.'."
+        },
+        {
+          "type": "missing_document",
+          "detail": "No meaningful evidence matched to this request."
+        }
+      ],
+      "status": "Missing",
+      "next_actions": [
+        "Request all evidence for RP-05: Related-party transaction listing, Contract terms, Settlement evidence.",
+        "Confirm entity/placeholder problems with the client for the files that were provided."
+      ],
+      "trial_balance_refs": [
+        {
+          "account": "Related-party receivables",
+          "period": "2026-03-31",
+          "amount": "320000000"
+        }
+      ]
+    }
+  ]
+}

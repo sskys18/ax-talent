@@ -1,0 +1,6 @@
+{
+  "name": "guru-avatar",
+  "version": "1.0.0",
+  "description": "A Codex workflow plugin for KakaoPay Securities-style beginner investor education drafts with prohibited-phrase lint, without buy, sell, or hold recommendations.",
+  "skills": "./skills/"
+}

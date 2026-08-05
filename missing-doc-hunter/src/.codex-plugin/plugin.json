@@ -1,0 +1,6 @@
+{
+  "name": "missing-doc-hunter",
+  "version": "1.0.0",
+  "description": "A Codex workflow plugin for Samil PwC-style PBC evidence readiness screening that finds missing or insufficient documents before human review.",
+  "skills": "./skills/"
+}

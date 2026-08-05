@@ -1,0 +1,15 @@
+{
+  "user": {
+    "gender": "male",
+    "height_cm": 178,
+    "occasion": "summer date",
+    "budget_krw": 200000,
+    "avoid": [
+      "musinsa smell",
+      "black wide pants",
+      "oversized graphic t-shirt",
+      "german army sneakers"
+    ],
+    "divergence_level": "safe-but-different"
+  }
+}

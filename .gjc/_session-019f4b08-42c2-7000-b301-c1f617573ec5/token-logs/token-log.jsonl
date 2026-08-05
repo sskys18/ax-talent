@@ -1,0 +1,8 @@
+{"subagentId":"root","agent":"main","turn":1,"at":"2026-07-10T08:02:08.055Z","input":2,"output":210,"cacheRead":12091,"cacheWrite":10071,"totalTokens":22374,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":2,"at":"2026-07-10T08:02:18.451Z","input":2,"output":516,"cacheRead":22162,"cacheWrite":6017,"totalTokens":28697,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":3,"at":"2026-07-10T08:02:27.092Z","input":2,"output":358,"cacheRead":28179,"cacheWrite":627,"totalTokens":29166,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":4,"at":"2026-07-10T08:02:33.746Z","input":2,"output":180,"cacheRead":28806,"cacheWrite":578,"totalTokens":29566,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":5,"at":"2026-07-10T08:02:42.397Z","input":2,"output":356,"cacheRead":29384,"cacheWrite":520,"totalTokens":30262,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":6,"at":"2026-07-10T08:02:48.320Z","input":2,"output":166,"cacheRead":29904,"cacheWrite":377,"totalTokens":30449,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":7,"at":"2026-07-10T08:02:54.268Z","input":2,"output":160,"cacheRead":30281,"cacheWrite":313,"totalTokens":30756,"model":"claude-fable-5"}
+{"subagentId":"root","agent":"main","turn":8,"at":"2026-07-10T08:03:08.269Z","input":2,"output":700,"cacheRead":30594,"cacheWrite":169,"totalTokens":31465,"model":"claude-fable-5"}

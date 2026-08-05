@@ -1,0 +1,26 @@
+{
+  "run_id": "019f4720-de73-7000-a4c8-9c0bcbda1c6c",
+  "skill": "ralplan",
+  "active": true,
+  "current_phase": "architect",
+  "version": 2,
+  "updated_at": "2026-07-09T13:48:20.828Z",
+  "receipt": {
+    "version": 1,
+    "skill": "ralplan",
+    "owner": "gjc-runtime",
+    "command": "gjc ralplan persist-run-id",
+    "state_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f4720-de73-7000-a4c8-9c0bcbda1c6c/skill-active-state.json",
+    "storage_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f4720-de73-7000-a4c8-9c0bcbda1c6c/ralplan-state.json",
+    "mutated_at": "2026-07-09T13:48:20.828Z",
+    "fresh_until": "2026-07-09T14:18:20.828Z",
+    "status": "fresh",
+    "mutation_id": "ralplan:2026-07-09T13:48:20.828Z",
+    "content_sha256": {
+      "algorithm": "sha256",
+      "value": "1ff115405579f312dfffd6fb3794d53d35379c90fa2f03cac7ae12f41300034c",
+      "covered_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f4720-de73-7000-a4c8-9c0bcbda1c6c/state/ralplan-state.json",
+      "computed_at": "2026-07-09T13:48:20.828Z"
+    }
+  }
+}

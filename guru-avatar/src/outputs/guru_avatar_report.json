@@ -1,0 +1,264 @@
+{
+  "target_ticker": "NVDA",
+  "company": "NVIDIA",
+  "sector": "Semiconductors",
+  "profile": {
+    "experience": "beginner",
+    "risk_tolerance": "medium",
+    "time_horizon": "3 years",
+    "target_ticker": "NVDA"
+  },
+  "metrics": {
+    "ticker": "NVDA",
+    "revenue_growth": 0.94,
+    "operating_margin": 0.54,
+    "pe_ratio": 55.2,
+    "free_cash_flow": 27.0,
+    "price_change_6m": 0.68,
+    "debt_ratio": 0.12,
+    "dividend_yield": 0.0003,
+    "volatility": 0.45
+  },
+  "guru_holdings": [
+    {
+      "guru_name": "Ray Dalio",
+      "holding_weight": "0.02",
+      "reported_quarter": "2024-Q4",
+      "notes": "Illustrative technology exposure from public filings"
+    }
+  ],
+  "lenses": [
+    {
+      "name": "Buffett Lens",
+      "philosophy": "Look for durable, understandable businesses with a wide moat, strong cash generation, and a price that leaves a margin of safety.",
+      "criteria": [
+        {
+          "what_it_checks": "Whether the company shows a durable competitive advantage, often visible as a consistently high operating margin.",
+          "supporting_signals": [
+            "Operating margin of 54.0% suggests pricing power that can support a moat."
+          ],
+          "caution_signals": [],
+          "investor_questions": [
+            "Can you explain in one sentence why competitors cannot easily copy this business?",
+            "Has the margin been stable across several years, not just the latest one?"
+          ],
+          "criterion": "moat"
+        },
+        {
+          "what_it_checks": "Whether the business generates real free cash flow, not just accounting profit.",
+          "supporting_signals": [
+            "Reported free cash flow of $27B indicates the business can fund itself from operations."
+          ],
+          "caution_signals": [],
+          "investor_questions": [
+            "Where does the cash actually come from, and is it recurring?",
+            "Is free cash flow growing or shrinking over recent years?"
+          ],
+          "criterion": "cash flow"
+        },
+        {
+          "what_it_checks": "Whether today's price leaves room for error versus a conservative estimate of value, roughly approximated by the P/E ratio.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "A P/E of 55.2 is high, so the price already assumes strong future results."
+          ],
+          "investor_questions": [
+            "What has to go right for the company to justify today's price?",
+            "How far could the price fall if growth slows, and could you tolerate that?"
+          ],
+          "criterion": "margin of safety"
+        },
+        {
+          "what_it_checks": "Overall business quality inferred from profitability and balance-sheet strength.",
+          "supporting_signals": [
+            "High margin (54.0%) with a modest debt ratio (12.0%) points to a financially sturdy business."
+          ],
+          "caution_signals": [],
+          "investor_questions": [
+            "Would this business survive a bad year in its industry without distress?"
+          ],
+          "criterion": "quality"
+        }
+      ]
+    },
+    {
+      "name": "Peter Lynch Lens",
+      "philosophy": "Invest in what you can understand, favor reasonable growth, and check whether the price is sensible relative to that growth.",
+      "criteria": [
+        {
+          "what_it_checks": "Whether a beginner can clearly explain what the company sells and how it earns money.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "The Semiconductors model can be complex; make sure you truly understand it before leaning on this analysis."
+          ],
+          "investor_questions": [
+            "Can you explain this company to a friend in about 30 seconds?",
+            "Do you personally use or understand its products?"
+          ],
+          "criterion": "understandable story"
+        },
+        {
+          "what_it_checks": "Whether revenue is expanding and how fast.",
+          "supporting_signals": [
+            "Revenue growth of 94.0% is strong."
+          ],
+          "caution_signals": [],
+          "investor_questions": [
+            "Is the growth coming from new customers, price increases, or one-time effects?",
+            "Could this growth rate realistically hold over your 3 years horizon?"
+          ],
+          "criterion": "growth"
+        },
+        {
+          "what_it_checks": "Whether the valuation is reasonable relative to growth, using a rough PEG-style sanity check.",
+          "supporting_signals": [
+            "P/E 55.2 against growth 94.0% gives a rough PEG near 0.59, which is comparatively balanced."
+          ],
+          "caution_signals": [],
+          "investor_questions": [
+            "If the growth rate halved, would the valuation still make sense to you?"
+          ],
+          "criterion": "valuation versus growth"
+        }
+      ]
+    },
+    {
+      "name": "Dalio Lens",
+      "philosophy": "Think in terms of economic machines and cycles, diversify across uncorrelated exposures, and watch interest-rate sensitivity.",
+      "criteria": [
+        {
+          "what_it_checks": "How the company might behave across different phases of the economic cycle.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "Semiconductors results can swing sharply with the economic cycle."
+          ],
+          "investor_questions": [
+            "In a recession, would people spend more or less on this product?"
+          ],
+          "criterion": "macro cycle"
+        },
+        {
+          "what_it_checks": "Whether adding this ticker would keep your overall portfolio balanced.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "A single high-volatility name (volatility 45.0%) can dominate a small portfolio."
+          ],
+          "investor_questions": [
+            "What percent of your total portfolio would this position be?",
+            "Do you already own similar companies in Semiconductors?"
+          ],
+          "criterion": "diversification"
+        },
+        {
+          "what_it_checks": "How sensitive the company may be to changes in interest rates.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "High-valuation names like this (P/E 55.2) can be sensitive to rising rates."
+          ],
+          "investor_questions": [
+            "If interest rates rose sharply, how might this stock be affected?"
+          ],
+          "criterion": "interest rate sensitivity"
+        }
+      ]
+    },
+    {
+      "name": "Momentum Lens",
+      "philosophy": "Observe recent trend and price action while remembering that past movement never guarantees future movement.",
+      "criteria": [
+        {
+          "what_it_checks": "The recent price trend over the last six months.",
+          "supporting_signals": [
+            "Price is up 68.0% over six months, an uptrend by this simple measure."
+          ],
+          "caution_signals": [
+            "Past price movement does not indicate future price movement."
+          ],
+          "investor_questions": [
+            "Are you reacting to the recent price move rather than to the business itself?"
+          ],
+          "criterion": "trend"
+        },
+        {
+          "what_it_checks": "Whether recent price action looks stable or erratic.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "Volatility of 45.0% is high; expect large swings in both directions."
+          ],
+          "investor_questions": [
+            "Could you stay calm if this dropped 30% in a single month?"
+          ],
+          "criterion": "price action"
+        },
+        {
+          "what_it_checks": "How strongly the market tends to react to news for this name.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "High volatility (45.0%) suggests sharp reactions to news.",
+            "Market reaction to future news is unpredictable."
+          ],
+          "investor_questions": [
+            "Do you have a plan for what you would do on a large down day?"
+          ],
+          "criterion": "market reaction"
+        }
+      ]
+    },
+    {
+      "name": "Dividend Lens",
+      "philosophy": "Prefer stable dividend payers backed by real cash flow and defensive business quality.",
+      "criteria": [
+        {
+          "what_it_checks": "Whether the stock pays a stable, meaningful dividend.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "Dividend yield of 0.0% is minimal; income is not a meaningful part of the case here."
+          ],
+          "investor_questions": [
+            "Are you here for income, growth, or both, and does this stock match that?"
+          ],
+          "criterion": "dividend stability"
+        },
+        {
+          "what_it_checks": "Whether the business generates real free cash flow, not just accounting profit.",
+          "supporting_signals": [
+            "Reported free cash flow of $27B indicates the business can fund itself from operations."
+          ],
+          "caution_signals": [],
+          "investor_questions": [
+            "Where does the cash actually come from, and is it recurring?",
+            "Is free cash flow growing or shrinking over recent years?"
+          ],
+          "criterion": "cash flow"
+        },
+        {
+          "what_it_checks": "Whether the stock tends to be defensive during downturns.",
+          "supporting_signals": [],
+          "caution_signals": [
+            "Volatility of 45.0% is not defensive."
+          ],
+          "investor_questions": [
+            "Do you need this position to be stable, and does the data support that expectation?"
+          ],
+          "criterion": "defensive quality"
+        }
+      ]
+    }
+  ],
+  "beginner_safety_check": [
+    "Can you explain what this company does without using jargon?",
+    "Would you be comfortable if this position fell 30% during your 3 years horizon?",
+    "Is this money you will not need during your 3 years horizon?",
+    "Would this position be a reasonable share of your portfolio, not an oversized bet?",
+    "Are you deciding from data and process, not from fear of missing out?",
+    "As a self-described beginner investor with medium risk tolerance, does this fit your plan?"
+  ],
+  "next_actions": [
+    "Add this ticker to a watchlist and observe it over time.",
+    "Track it with paper trading or mock tracking instead of real money first.",
+    "Review the case again after the next earnings release.",
+    "Compare an appropriate position size against the rest of your portfolio.",
+    "Compare alternative stocks in the same sector (Semiconductors)."
+  ],
+  "disclaimer": "This report is educational decision support, not financial advice. It does not tell you to purchase, dispose of, or keep any security, and it does not forecast future returns. All figures come from a local sample file and may be out of date. Verify every number against primary sources and consult a licensed professional before making any decision."
+}

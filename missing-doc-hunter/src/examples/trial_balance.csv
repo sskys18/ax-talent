@@ -1,0 +1,6 @@
+account,period,entity,amount
+Accounts receivable,2026-03-31,ACME Korea Co.,1250000000
+Revenue,2026-03-31,ACME Korea Co.,8400000000
+Inventory,2026-03-31,ACME Korea Co.,640000000
+Related-party receivables,2026-03-31,ACME Korea Co.,320000000
+Manual journal entries,2026-03-31,ACME Korea Co.,45000000

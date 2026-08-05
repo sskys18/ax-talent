@@ -1,0 +1,6 @@
+request_id,request_text,period,entity
+AR-03,"2026-03-31 receivables aging report, 90+ day receivables collectability assessment, customer contract terms, and subsequent cash receipts.",2026-03-31,ACME Korea Co.
+CUT-01,"Contracts, tax invoices, and delivery evidence for selected revenue cutoff test transactions.",2026-03-31,ACME Korea Co.
+JE-02,"Manual journal entry list, preparer information, reviewer approval logs, and approval dates.",2026-03-31,ACME Korea Co.
+INV-04,"Inventory valuation allowance calculation support and slow-moving inventory list.",2026-03-31,ACME Korea Co.
+RP-05,"Related-party transaction listing, contract terms, and settlement evidence.",2026-03-31,ACME Korea Co.

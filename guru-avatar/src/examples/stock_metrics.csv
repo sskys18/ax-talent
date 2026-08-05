@@ -1,0 +1,9 @@
+ticker,company,sector,revenue_growth,operating_margin,pe_ratio,free_cash_flow,price_change_6m,debt_ratio,dividend_yield,volatility
+NVDA,NVIDIA,Semiconductors,0.94,0.54,55.2,27.0,0.68,0.12,0.0003,0.45
+TSLA,Tesla,Automotive,0.03,0.09,68.4,3.5,-0.12,0.14,0.0,0.55
+AAPL,Apple,Consumer Electronics,0.02,0.30,29.1,99.0,0.10,0.45,0.0055,0.24
+MSFT,Microsoft,Software,0.16,0.44,34.7,63.0,0.18,0.20,0.0075,0.22
+KO,Coca-Cola,Beverages,0.06,0.29,24.3,9.5,0.04,0.55,0.031,0.14
+JPM,JPMorgan Chase,Banking,0.12,0.42,11.8,0.0,0.22,0.0,0.024,0.21
+AMZN,Amazon,E-Commerce,0.13,0.10,42.5,32.0,0.15,0.35,0.0,0.30
+COST,Costco,Retail,0.07,0.037,48.9,6.8,0.20,0.18,0.005,0.19

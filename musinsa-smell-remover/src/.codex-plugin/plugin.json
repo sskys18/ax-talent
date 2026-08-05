@@ -1,0 +1,6 @@
+{
+  "name": "musinsa-smell-remover",
+  "version": "1.0.0",
+  "description": "A Codex workflow plugin for Musinsa-scale fashion data that calculates clone-look risk and generates style-diversity outfit candidates from local files.",
+  "skills": "./skills/"
+}

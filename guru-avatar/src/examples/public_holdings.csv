@@ -1,0 +1,7 @@
+guru_name,ticker,holding_weight,reported_quarter,notes
+Warren Buffett,AAPL,0.44,2024-Q4,Berkshire reported a large Apple position in public 13F filings
+Warren Buffett,KO,0.09,2024-Q4,Long-held consumer staples position shown in public filings
+Ray Dalio,MSFT,0.03,2024-Q4,Illustrative diversified megacap exposure from public filings
+Ray Dalio,COST,0.02,2024-Q4,Illustrative defensive retail exposure from public filings
+Ray Dalio,NVDA,0.02,2024-Q4,Illustrative technology exposure from public filings
+Peter Lynch,AMZN,0.00,2024-Q4,Illustrative only; used for educational story analysis

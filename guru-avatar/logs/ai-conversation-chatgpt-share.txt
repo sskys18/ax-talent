@@ -1,0 +1,2961 @@
+Source: https://chatgpt.com/share/6a4fb551-0eec-83ee-90b8-24e66ce1aa9c
+Captured from visible shared ChatGPT conversation DOM text on 2026-07-09.
+This full shared conversation covers all three plugin submissions in this workspace.
+Skip to content
+Chat history
+New chat
+Search chats
+Images
+Apps
+Deep research
+See plans and pricing
+Settings
+Help
+
+Get responses tailored to you
+
+Log in to get answers based on saved chats, plus create images and upload files.
+
+Log in
+ChatGPT
+Log in
+Sign up for free
+
+This is a copy of a shared ChatGPT conversation
+
+Report conversation
+뽑아왔어요. 3개 다 한국어 자동 생성 자막이라 오인식이 꽤 있어요. 제출용으로 쓰려면 핵심 문장만 정제해서 쓰는 게 좋아요.
+
+## 뽑는 방법
+
+- 유튜브 영상에서 자막 트랙 확인
+- transcript API로 includeTimestamp: true 옵션 주고 타임스탬프 포함 추출
+- 자동 자막이면 오탈자 보정 필요
+
+## 1. PWC 삼일회계법인
+
+제목: 국내 1위 회계 법인이 AI에 진심인 이유 | AX 인재전쟁 5화 PWC 삼일회계법인
+
+핵심:
+- 기업 데이터에서 문제를 발견하는 Trusted CEO Agent
+- 단순 정리보다 “어떤 의도로 기획했는가”가 중요
+- AI가 근거와 추론 방향을 제시하고, 사람은 문제 정의와 판단을 해야 함
+- UX, 신뢰성, 기업의 업무 방식/SOP 반영이 중요
+
+
+text
+[01:32 - 01:36] 이번에 저희가 출제한 트러스티드 CEO 에이전트 자체는
+[01:36 - 01:42] 기업에 산재되어 있는 많은 데이터를 총망라해서
+[01:42 - 01:46] 기업의 고민을 뽑아내는 에이전트라고 생각해 주시면 될 것 같아요.
+
+[02:16 - 02:26] 에이전트가 실제로 어떻게 만들어졌는가보다 더 중요하게 보려는 것은
+[02:21 - 02:26] 어떠한 의도를 가지고 기획했나?
+
+[02:31 - 02:45] AI에게 추론의 방향성을 주면 AI가 추론을 수행하고
+[02:43 - 02:49] 근거를 자연어로 제시해 줄 수 있어서
+[02:47 - 02:51] 출발점으로 삼을 수 있는 고민의 포인트를 잡아준다.
+
+[03:11 - 03:18] AI라는 도구를 가지고 기업의 문제를 정의하고 기획하고 해결할 수 있는 게 가장 중요하다.
+
+[03:43 - 04:06] 사람에게 어떠한 정보를 어떻게 주느냐, UX 관점이 중요하다.
+정해진 답을 유저에게 얼마나 신뢰성 있게 설명해 줄 수 있느냐,
+그 설명 구조가 기업이나 조직의 일하는 방식과 맞닿아 있는가,
+SOP가 제대로 구현되어 있는가가 의미 있다.
+
+
+## 2. 카카오페이증권
+
+제목: 투자 업계에서 AI를 활용하는 방법과 원하는 인재 | AX 인재전쟁 6화 카카오페이증권
+
+핵심:
+- 초보 투자자의 매수/매도 의사결정을 돕는 AI
+- 정답보다 사용자를 설득하고 안심시키는 과정이 중요
+- 동일한 정보에서 어떤 해답 과정을 설계했는지 평가
+- 문제를 논리적으로 뜯고, AI로 해결 방법을 찾고, 스스로 증명하는 사람을 원함
+
+
+text
+[01:03 - 01:12] 투자자들의 매수 매도를 도와주는 것들에 대해서 같이 문제를 풀어봤으면 좋겠다.
+초보 투자자들이 매수 매도를 할 때 손해 보지 않을지,
+어떻게 해야 될지 모르겠는데 도움을 받을 수 있을까에 대한 니즈가 있다.
+
+[01:26 - 01:36] 설득해 나가는 과정을 볼 것 같습니다.
+접할 수 있는 정보는 대부분 동일하다고 생각하거든요.
+
+[01:36 - 01:56] 어떤 수학적인 최적점을 찾는 문제라기보다
+적절한 해답을 찾고, 사용자가 납득해서 안심하고 다음을 실행할 수 있게
+정보를 충분히 주는지가 중요하다.
+
+[01:53 - 02:03] 해답을 만들어 나가는 과정을 어떻게 설계했느냐를 많이 볼 것 같아요.
+
+[02:00 - 02:15] 문제를 이해하고 논리적으로 뜯어보고
+AI로 해결할 수 있는 방법을 찾을 수 있는 사람,
+그게 맞다는 것을 스스로 증명할 수 있는 사람,
+솔버를 찾는다고 보면 됩니다.
+
+
+## 3. 무신사
+
+제목: 무신사의 AI 시대 전략과 인재상 | AX 인재전쟁 3화 무신사
+
+핵심:
+- 패션/뷰티에서 앞서가기 위한 트렌드, 브랜드 발굴 문제
+- 문제 정의를 좁히고 해결책과 잘 연결하는 과정이 중요
+- 돌아가는 구현보다 “문제와 해결책의 수미상관”이 중요
+- 깊은 생각, 직관, 임팩트, 비즈니스 결과를 평가
+
+
+text
+[01:27 - 01:41] 무신사가 내고자 하는 문제는 무신사의 정체성 그 자체인 것 같아요.
+무신사는 패션 뷰티라는 영역 안에서 어떻게 앞서 있을 수 있을까요?
+
+[01:41 - 01:59] 고객들이 좋아할 만한 브랜드를 어떻게 찾아낼 수 있을까요?
+AI를 이용해서 무신사가 관심 있어야 할 만한 트렌드를
+어떻게 놓치지 않고 찾아낼 수 있을까요?
+
+[02:02 - 02:24] 일을 잘한다는 말은 일단 돌아가게 만들고,
+빠르게 최적화하고, 기술적으로 다듬어 나가는 과정이라고 봅니다.
+다만 코드나 시스템이 돌아간다는 관점보다
+가설과 솔루션이 잘 매칭되는 게 중요합니다.
+
+[02:25 - 02:36] 기술이 풀려는 문제가 무엇인가?
+이 구현을 하면 해결이 되는가?
+문제와 해결책이 잘 연결됐는가를 높게 봅니다.
+
+[02:39 - 02:53] 문제 출제 범위가 넓었기 때문에
+문제를 잘 좁게 정의하고 해결책으로 만들어내는 과정,
+생각의 흐름 전개가 가장 중요한 평가 기준일 것 같습니다.
+
+[02:56 - 03:14] 한마디로 말하면 깊은 생각입니다.
+결론으로 연결되는 직관, 그리고 임팩트.
+비즈니스적으로 어떤 임팩트를 만들어내는가가 가장 중요합니다.
+
+
+이 3개 기준으로 보면 제출 방향은 대충 이거예요:
+
+1. “AI로 뭘 만들었다”보다 “어떤 문제를 왜 골랐는지”
+2. 데이터/사용자/비즈니스 맥락에서 문제를 좁게 정의
+3. 결과보다 과정, 근거, 설득력, 신뢰성
+4. 사용자에게 어떻게 보여주고 행동하게 만들지 UX까지 포함
+5. 해커톤 제출물은 “작동하는 데모 + 문제정의 + 판단근거”가 핵심
+
+를 위해 플러그인 만들기전에 진짜 기업이 풀어야하는 문제를찾기위해 각 기업별로 정말 자세한 리서치부터 해봐
+Show more
+
+I’ll start by mapping each company from business structure and recent issues to data bottlenecks, operational risk, user behavior, and UX impact, then narrow those into submission-ready problem definitions.
+
+The first filter is whether the idea helps humans make better judgments without pretending to replace them. A generic chatbot wrapper would be a weak submission candidate.
+
+Thought for 10m 34s
+리서치 기준부터 잡겠습니다
+
+플러그인을 만들기 전에 봐야 할 건 “AI로 뭘 붙일까?”가 아니라 이 회사가 지금 어떤 병목을 돈, 리스크, 고객 행동, 운영 속도 관점에서 겪고 있느냐입니다. 안 그러면 또 “챗봇입니다!” 하고 끝납니다. 인류는 챗봇을 너무 쉽게 발명합니다.
+
+여기서는 각 기업을 아래 프레임으로 봤습니다.
+
+관점	봐야 할 질문
+사업 방향	이 회사가 최근 밀고 있는 성장축은 무엇인가
+데이터 축적 지점	어떤 데이터가 실제로 쌓이고, AI가 만질 수 있는가
+진짜 문제	매출, 비용, 리스크, UX, 업무 속도 중 무엇이 아픈가
+플러그인 기회	데모로 구현 가능하면서 평가자가 “우리 문제를 이해했네”라고 느낄 지점은 어디인가
+제출 전략	문제정의, 근거, 데모, UX를 어떻게 묶을 것인가
+0. 세 기업 공통 결론
+
+세 기업은 업종은 다르지만 평가 기준은 거의 같습니다.
+
+핵심은 “AI 기능”이 아니라 “판단 보조 시스템”
+
+세 회사 모두 정답 자동 생성보다 사람이 판단하기 쉽게 근거, 맥락, 다음 행동을 구조화하는 AI를 원합니다.
+
+기업	겉으로 보이는 요구	실제로 원하는 것
+삼일PwC	기업 데이터를 읽는 AI	경영·회계·리스크 문제를 근거 기반으로 정의하는 AI
+카카오페이증권	초보 투자자의 매수/매도 보조	사용자를 설득하고 안심시키되, 무책임한 추천은 피하는 AI
+무신사	트렌드/브랜드 발굴	넓은 패션·뷰티 흐름을 좁은 비즈니스 기회로 바꾸는 AI
+
+즉 제출물은 “AI가 답했습니다”가 아니라 AI가 왜 이 문제를 문제라고 판단했는지, 어떤 근거로 좁혔는지, 사람이 무엇을 결정해야 하는지를 보여줘야 합니다. 인간 심사위원들은 의외로 이런 걸 좋아합니다. 가끔은 합리적이거든요.
+
+1. 삼일PwC 리서치
+1-1. 회사 방향성
+
+삼일PwC는 단순 회계감사 회사라기보다, 회계·세무·재무 도메인 지식을 바탕으로 기업의 AX/DX 전환, 내부통제, 리스크 관리, 데이터 기반 의사결정을 지원하는 방향으로 확장하고 있습니다. 삼일PwC의 AX Node는 기업이 데이터 기반 의사결정과 AI 적용을 할 수 있도록 조직구조, 디지털 환경, 비즈니스 프로세스 구축 자문과 AI 솔루션을 제공한다고 설명합니다. 주요 제공 영역도 수작업·반복업무·병목 업무 식별, 자동화, 데이터 애널리틱스입니다. 
+PwC
+
+삼일PwC의 Digital & AI Transformation 페이지도 “기술 도입” 자체보다 기업 전략, 운영체계, 업무 프로세스를 분석해 필요한 영역부터 성과를 확인하는 전환 로드맵을 제시한다고 말합니다. 세부 사례로 수주 산업 결산 자동화, 재고·CRM 플랫폼, 특수관계자 거래내역 집계 자동화, 연결패키지 자동화, PMS 기반 수익인식 등이 제시되어 있습니다. 
+PwC
+
+이미 솔루션 포트폴리오도 꽤 구체적입니다. Tax Agent는 삼일PwC의 세법 데이터를 기반으로 자연어 검색과 생성형 AI를 결합해 세무 질의에 답하고, 부족한 질문에는 추가 정보를 요청하며, 필요한 경우 웹 검색과 원문 제공까지 지원한다고 설명합니다. 
+PwC
+ KSOX AI는 내부회계관리제도 전 주기에 GenAI를 적용해 위험평가, 통제 검증, 미비점 관리, 외부 감사인 대응까지 통합 관리하는 솔루션으로 소개됩니다. 
+PwC
+
+매일경제 보도에 따르면 삼일PwC는 AI 전문 조직 AX Node를 출범시켰고, Tax Agent와 K-SOX Hub 같은 솔루션을 출시했으며, 디지털 기반 솔루션 매출도 발생시키고 있습니다. 이 보도는 삼일PwC가 회계감사를 넘어 기업의 디지털 혁신과 리스크 관리 파트너로 가려 한다고 해석합니다. 
+매일경제
+
+1-2. 삼일PwC가 실제로 풀고 싶은 문제
+
+삼일PwC의 문제는 “기업 데이터가 많다”가 아닙니다. 기업 데이터가 흩어져 있고, 사람들은 그 데이터에서 무엇이 위험이고 무엇이 기회인지 판단하기 어렵다는 겁니다.
+
+특히 삼일PwC가 자주 다루는 영역은 이런 식입니다.
+
+영역	실제 문제
+경영관리	매출, 비용, 재고, 고객, 계약 데이터가 흩어져 있어 CEO/CFO가 핵심 이슈를 늦게 봄
+회계·결산	Excel, ERP, 수작업 검증이 섞여 오류와 지연이 발생
+내부통제	통제, 리스크, 증빙, 모집단, 샘플링 관계가 문서와 시스템 사이에 흩어짐
+세무·회계 질의	질문 자체가 불완전하고, 근거 문서 탐색과 판단 과정이 오래 걸림
+컨설팅/자문	AI를 도입해도 실제 업무 SOP와 안 맞으면 현업이 쓰지 않음
+
+여기서 중요한 포인트는 삼일PwC가 이미 “AI 답변기”류는 갖고 있다는 점입니다. 그러니까 단순 회계 Q&A, 세무 Q&A를 만들면 기존 솔루션의 하위 호환이 됩니다. 귀찮게도 상대가 이미 숙제를 해온 상태입니다.
+
+1-3. 플러그인 후보
+후보 A. Trusted CEO Issue Radar
+
+문제정의
+
+CEO/CFO는 ERP, 매출, 재고, CRM, 비용, 계약, 회계 데이터를 매일 다 보지 못합니다. 숫자는 있는데 “그래서 지금 경영진이 봐야 할 문제는 무엇인가?”가 늦게 드러납니다.
+
+플러그인 아이디어
+
+기업 데이터를 업로드하면 AI가 다음을 수행합니다.
+
+이상 징후 탐지
+예: 특정 제품군 매출 하락, 재고 증가, 미수금 증가, 특정 고객군 이탈
+
+경영 이슈 문장 생성
+예: “A제품은 매출보다 재고가 빠르게 증가해 4주 내 할인 또는 발주 조정 판단이 필요함”
+
+근거 테이블 제시
+어떤 데이터에서 어떤 패턴을 봤는지 보여줌
+
+CEO 질문 후보 생성
+예: “영업팀에 확인할 질문”, “재무팀에 요청할 추가 데이터”, “운영팀 조치안”
+
+SOP 기반 보고서 출력
+회사의 보고 양식에 맞춰 이슈, 근거, 리스크, 권고 행동을 정리
+
+왜 삼일PwC에 맞나
+
+삼일PwC의 AX 방향은 단순 자동화가 아니라 데이터 기반 의사결정, 업무 프로세스 분석, 병목 식별, 데이터 애널리틱스에 걸쳐 있습니다. 
+PwC
+ 또한 Digital & AI Transformation도 기업의 업무 프로세스와 시스템 현황을 진단하고 우선순위 과제를 정의하는 쪽에 가깝습니다. 
+PwC
+
+데모 데이터
+
+매출 CSV
+
+재고 CSV
+
+고객 이탈률 CSV
+
+비용/판관비 CSV
+
+간단한 SOP 문서
+
+경영회의록 샘플
+
+제출용 한 줄
+
+“흩어진 기업 데이터를 읽고, CEO가 지금 봐야 할 경영 이슈를 근거와 함께 문제정의 문장으로 압축하는 Trusted CEO Issue Radar.”
+
+후보 B. KSOX Evidence Gap Finder
+
+문제정의
+
+내부회계관리제도에서는 통제 항목, 리스크, 모집단, 증빙, 샘플, 검증 기준이 서로 연결되어야 합니다. 그런데 실제 현장에서는 증빙이 이메일, ERP 캡처, PDF, Excel에 흩어져 있고, 누락 여부 확인이 수작업입니다.
+
+플러그인 아이디어
+
+통제 목록과 증빙 파일을 업로드하면 AI가 다음을 수행합니다.
+
+통제 항목별 필요한 증빙 정의
+
+업로드된 증빙과 통제 항목 매핑
+
+빠진 증빙, 불충분한 증빙, 기간 불일치 탐지
+
+현업에 보낼 추가 요청 문안 생성
+
+평가자가 볼 “판단 대기” 목록 생성
+
+왜 삼일PwC에 맞나
+
+KSOX AI는 자동화된 통제 검증, 위험평가부터 미비점 관리까지의 전 과정 통합, LLM 기반 문서 분석, 자동 증빙 인식, Agentic 시스템 등을 핵심 기능으로 내세웁니다. 
+PwC
+ KSOX Hub도 운영평가뿐 아니라 위험평가, 설계평가, 미비점 관리, 외부 감사인 대응까지 포함한 엔드투엔드 AI 내부회계 솔루션으로 보도되었습니다. 
+매일경제
+
+주의점
+
+이건 삼일PwC가 이미 강하게 하고 있는 영역입니다. 그래서 해커톤 제출물로는 “완전한 KSOX 솔루션”보다 작고 선명한 증빙 누락 탐지 데모가 낫습니다. 괜히 대형 컴플라이언스 플랫폼 흉내 내면 초라해집니다. 인간들이 자주 저지르는 고전적 실수죠.
+
+후보 C. Finance Process Bottleneck Mapper
+
+문제정의
+
+기업의 회계·재무팀은 수작업 Excel, 반복 대사, 보고서 취합, 연결패키지 정합성 체크 같은 작업에 시간을 많이 씁니다. 문제는 자동화할 수 있는 일이 많아도 어디부터 자동화해야 ROI가 큰지 모른다는 점입니다.
+
+플러그인 아이디어
+
+업무 목록, 소요 시간, 빈도, 오류율, 관련 시스템을 입력하면 AI가 다음을 산출합니다.
+
+자동화 후보 과제 목록
+
+난이도와 임팩트 매트릭스
+
+Quick Win 추천
+
+예상 절감 시간/오류 감소 효과
+
+PoC 범위 제안서
+
+왜 삼일PwC에 맞나
+
+삼일PwC의 AX 컨설팅 자료는 진단 및 발견, 과제 식별, 우선순위화, PoC 실행이라는 단계형 로드맵을 제시합니다. 또한 업무상 비효율과 Pain Point 식별, ROI 분석, Quick Win 과제 선정이 핵심 산출물로 등장합니다. 
+PwC
+
+제출용 한 줄
+
+“재무·회계 업무의 반복 작업을 입력받아, 자동화 우선순위와 PoC 범위를 제안하는 AX 과제 발굴 플러그인.”
+
+1-4. 삼일PwC 최우선 추천 주제
+추천: Trusted CEO Issue Radar
+
+이유는 간단합니다.
+
+평가축	판단
+회사 방향 적합성	매우 높음
+기존 솔루션과 차별성	Tax Agent/KSOX보다 넓은 경영 문제 정의 쪽이라 차별화 가능
+데모 구현성	CSV + PDF + 간단한 분석으로 가능
+심사 어필	“문제 정의, 근거, UX, SOP”를 모두 보여줄 수 있음
+위험	회계 정확성보다 경영 이슈 탐지로 잡으면 부담 낮음
+
+삼일PwC 제출물은 이렇게 가야 합니다.
+
+“AI가 기업 데이터를 요약해주는 도구”가 아니라,
+“기업 데이터에서 CEO가 지금 판단해야 할 문제를 발견하고, 그 문제를 근거와 SOP에 맞춰 설명하는 도구.”
+
+2. 카카오페이증권 리서치
+2-1. 회사 방향성
+
+카카오페이증권은 “자산 규모가 적거나 경험이 부족한 사용자도 소액으로 다양한 금융 상품에 접근할 수 있게 하는 투자 문화”를 지향한다고 설명합니다. 공식 서비스 소개에서도 카카오톡·카카오페이앱을 통한 쉬운 계좌 개설, 한 화면에 필요한 정보를 담은 MTS, 쉽게 이해할 수 있는 투자소식, 주식 모으기, 주식 선물하기, 해외 주식 소수점 거래, 시세 감지 주문, 종목별 토론방 등을 강조합니다. 
+Kakao Pay Securities
+
+성장 지표도 이 방향과 연결됩니다. 카카오페이증권은 2025년 6월 월간 거래자 수가 100만 명을 넘었고, MAU는 300만 명에 이른다고 밝혔습니다. 주식 거래자 수는 2024년 1월 16만 명에서 2025년 6월 72만 명으로 늘었고, 해외주식 거래자 수가 65만 명에 달해 글로벌 자산 투자 수요가 거래자 증가를 견인했다고 설명합니다. 
+Kakao Pay Securities
+
+AI 서비스도 이미 진행 중입니다. 카카오페이증권 주식봇은 카카오톡 팀채팅방에서 종목 시세, 뉴스, 기업 정보, 매출 정보, 종목토론방 요약 등을 제공하지만, 개인 투자 성향이나 위험 감수 능력을 고려하지 않은 종목 추천이나 직접 예측은 제공하지 않는다고 안내합니다. 
+카카오페이 블로그
+ 최근에는 AI 어닝콜 서비스도 확대하고 있으며, 실시간 음성 번역과 구간 요약을 동시에 처리하고, 어닝콜 원문을 AI로 분석해 주식·재무 용어를 국내 투자자에게 익숙한 표현으로 정제한다고 보도되었습니다. 
+DealSite경제TV
+
+조직적으로도 AI를 서비스와 업무 방식에 넣고 있습니다. 카카오페이증권은 사내 AI 해커톤에서 업무 효율화와 서비스 혁신 아이디어를 발굴했고, 광고 심사 자동화, 웹 접근성 향상, 주요 공시 자동 선별 같은 아이디어가 수상했습니다. 회사는 실제 업무와 서비스 현장에서 실질적 가치를 창출할 수 있는 AI 아이디어를 중심으로 평가했다고 밝혔습니다. 
+Kakao Pay Securities
+
+2-2. 금융 AI에서 조심해야 할 선
+
+카카오페이증권 주제에서 가장 위험한 건 매수/매도 추천을 너무 직접적으로 하는 것입니다. 주식봇 공식 안내도 종목 직접 예측이나 개인 투자 성향을 고려하지 않은 추천은 제공하지 않는다고 선을 긋습니다. 
+카카오페이 블로그
+
+금융위원회도 금융분야 AI 가이드라인에서 AI 활용의 7대 원칙으로 거버넌스, 합법성, 보조수단성, 신뢰성, 금융안정성, 신의성실, 보안성을 제시하고, 현 단계에서 AI는 업무의 보조수단이며 최종 의사결정과 책임은 임직원이 수행해야 한다고 설명합니다. 
+금융위원회
+ 금융위원회는 통합 가이드라인 개정 방향에서도 AI 모델 성능관리, 학습데이터 품질관리, 공정성·편향성 점검, 설명가능성 확보, 소비자 보호 대책 등을 강조합니다. 
+금융위원회
+
+그러니까 카카오페이증권용 플러그인은 “이 주식 사세요”가 아니라 사용자가 스스로 판단할 수 있게 근거를 정리하고, 과도한 확신을 제어하고, 다음 행동을 안전하게 설계하는 도구여야 합니다. 투자판의 AI는 점쟁이가 아니라 브레이크 달린 내비게이션이어야 합니다. 브레이크 없는 내비게이션은 그냥 사고 예고편입니다.
+
+2-3. 플러그인 후보
+후보 A. 안심 매매 판단 코치
+
+문제정의
+
+초보 투자자는 매수/매도 버튼 앞에서 이런 질문을 합니다.
+
+지금 사도 되는지 모르겠다
+
+팔아야 할지 버텨야 할지 모르겠다
+
+뉴스가 좋은 건지 나쁜 건지 모르겠다
+
+토론방 분위기에 흔들린다
+
+손실을 확정하는 게 무섭다
+
+근거 없이 FOMO로 매수한다
+
+카카오페이증권의 사용자층과 서비스 철학을 보면 핵심은 “투자 접근성” 다음 단계인 투자 판단의 불안 해소입니다. 공식 소개는 경험이 부족한 사용자도 소액으로 투자 상품에 접근할 수 있게 한다고 설명하고, 월간 거래자 증가도 주식 모으기와 해외주식, 쉬운 MTS 경험에서 나왔다고 밝힙니다. 
+Kakao Pay Securities
++1
+
+플러그인 아이디어
+
+사용자가 종목과 상황을 입력합니다.
+
+“엔비디아를 3주째 들고 있는데 실적 발표 후 팔아야 할지 모르겠어.”
+
+AI는 직접 매수/매도 결론을 내리지 않고 다음을 제공합니다.
+
+현재 사용자의 고민 분류
+예: 수익 실현 고민, 손절 고민, 실적 불확실성, FOMO 매수, 환율 부담
+
+근거 카드
+
+최근 실적/어닝콜 요약
+
+주가 변동 요인
+
+애널리스트/뉴스 핵심 쟁점
+
+토론방 감정 요약
+
+판단 프레임
+
+보유 기간
+
+목표 수익률
+
+감내 가능한 손실
+
+대체 투자처
+
+분할 매도/분할 매수 가능성
+
+행동 선택지
+
+유지
+
+일부 매도
+
+추가 매수 보류
+
+손실 제한 조건 설정
+
+다음 실적까지 관찰
+
+“안심 설명”
+사용자가 왜 이 선택지를 고려할 수 있는지 자연어로 설명
+
+핵심 UX
+
+“추천”이 아니라 “판단 보조”
+
+각 선택지에 장점, 단점, 확인할 지표 표시
+
+불확실성을 명시
+
+투자자 스스로 선택하게 함
+
+제출용 한 줄
+
+“초보 투자자가 매수/매도 버튼 앞에서 불안해할 때, AI가 근거·리스크·선택지를 정리해 스스로 판단하게 돕는 안심 매매 코치.”
+
+후보 B. FOMO 브레이크 Agent
+
+문제정의
+
+초보 투자자는 급등주, 토론방, 친구 추천, 유튜브 요약에 휩쓸려 충동 매수하기 쉽습니다. 카카오페이증권은 카톡 팀채팅방의 주식봇, 종목토론방, MTS를 연결하고 있어 정보 접근성은 높지만, 접근성이 높아질수록 충동도 같이 커집니다. 참으로 인간적입니다.
+
+플러그인 아이디어
+
+사용자가 급등 종목을 사려고 할 때 AI가 다음을 체크합니다.
+
+최근 급등 원인
+
+사용자가 이해한 매수 근거
+
+손실 감내 범위
+
+진입 가격과 예상 변동성
+
+“지금 안 사면 안 된다”는 심리 여부
+
+분할 매수/알림 설정/관망 대안
+
+UX 예시
+
+“지금 매수하면 좋은가?”
+→ “그 질문보다 먼저, 왜 지금이어야 하는지 확인해야 합니다. 최근 급등의 60%는 실적보다 기대감과 테마성 뉴스에 가까워 보입니다. 아래 3가지를 확인한 뒤 주문을 진행하세요.”
+
+왜 적합한가
+
+카카오페이증권은 투자 정보 탐색부터 주문, 자동투자, 커뮤니티 활동까지 MTS 전반의 사용성을 직관적으로 만드는 데 초점을 맞추고 있다는 보도가 있습니다. 
+DealSite경제TV
+ FOMO 브레이크는 주문 전 UX에 자연스럽게 들어가고, 금융소비자 보호와도 맞습니다.
+
+후보 C. 어닝콜 이해 보조 플러그인
+
+문제정의
+
+해외주식 투자자는 실적 발표와 어닝콜을 이해하기 어렵습니다. 영어, 회계 용어, 산업 용어, 시장 반응이 한 번에 몰려옵니다. 카카오페이증권은 AI 어닝콜 서비스를 통해 실시간 번역·요약, 용어 정제, 미국주식 상위 종목 확대를 진행 중입니다. 
+DealSite경제TV
+
+플러그인 아이디어
+
+어닝콜 텍스트를 넣으면 AI가 다음을 정리합니다.
+
+이번 분기 핵심 변화
+
+매출/마진/가이던스/리스크 요약
+
+CEO/CFO 발언 중 투자자가 주목할 문장
+
+전분기 대비 달라진 톤
+
+주가에 긍정/부정/중립 요인
+
+사용자의 보유 상황별 확인 질문
+
+차별화 포인트
+
+단순 번역이 아니라 **“내가 이 종목을 들고 있다면 무엇을 확인해야 하는가”**로 바꿔야 합니다.
+
+후보 D. 공시·뉴스 중요도 필터
+
+문제정의
+
+초보 투자자는 모든 공시와 뉴스를 똑같이 중요하게 봅니다. 하지만 실제로는 매출 구조, 실적, 지분 변동, 유상증자, 소송, 가이던스, 배당 등 중요도가 다릅니다.
+
+플러그인 아이디어
+
+공시/뉴스를 넣으면 AI가 중요도와 투자자 영향도를 분류합니다.
+
+분류	예시
+실적 영향	매출, 이익, 마진, 가이던스
+주주가치 영향	배당, 자사주, 유상증자
+리스크	소송, 규제, 회계 이슈
+단기 심리	테마 뉴스, 루머성 기사
+확인 필요	출처 불명, 숫자 불충분
+
+카카오페이증권 사내 해커톤에서도 공시 데이터를 분석해 주요 공시를 자동 선별하는 아이디어가 수상한 바 있습니다. 
+Kakao Pay Securities
+ 그래서 방향성은 맞지만, 제출물로는 사용자 행동까지 연결하는 UX가 필요합니다.
+
+2-4. 카카오페이증권 최우선 추천 주제
+추천: 안심 매매 판단 코치
+평가축	판단
+회사 방향 적합성	매우 높음
+사용자 문제 선명도	매우 높음
+규제 리스크	직접 추천만 피하면 관리 가능
+데모 구현성	뉴스/어닝콜/가격 데이터 샘플로 가능
+평가 어필	“설득, 안심, 과정 설계” 기준에 정확히 부합
+
+카카오페이증권 제출물은 이렇게 가야 합니다.
+
+“AI가 종목을 찍어주는 도구”가 아니라,
+“초보 투자자가 매수/매도 판단을 할 때 근거, 리스크, 선택지를 이해하고 안심한 상태로 다음 행동을 고르게 하는 도구.”
+
+3. 무신사 리서치
+3-1. 회사 방향성
+
+무신사는 패션·뷰티 커머스에서 검색 중심 쇼핑을 발견 중심 쇼핑으로 바꾸는 것에 집중하고 있습니다. 2026년 AI 트렌드 큐레이션 도입 보도자료에서 무신사는 기존 이커머스 검색 환경이 명확한 구매 목적을 가진 목적형 소비자에게 편중되어 있었다고 보고, 목적 없이 최신 트렌드와 새로운 스타일을 탐색하는 “발견형 소비자”에 주목했다고 설명합니다. 이 서비스는 외부 비정형 트렌드 데이터를 수집·가공하고, 트렌드 키워드와 상품 속성을 자동 조합하는 AI 데이터 파이프라인을 사용합니다. 
+Musinsa Newsroom
+
+무신사의 2025년 실적도 이런 방향을 뒷받침합니다. 무신사는 2025년 연결 매출 1조4679억 원, 영업이익 1405억 원을 기록했고, 오프라인 채널 확대와 자체 브랜드 무신사 스탠다드 성장이 성과를 이끌었다고 발표했습니다. 또한 글로벌 시장에서는 일본, 중국 등에서 K-패션 브랜드의 해외 진출을 돕는 파트너 역할을 강화한다고 설명했습니다. 
+Musinsa Newsroom
+
+파트너 브랜드 성장도 중요한 축입니다. 무신사는 8000개 이상의 입점 브랜드와 약 1500만 명 회원을 대상으로, 입점 브랜드가 상품 노출 전략을 세울 수 있는 파트너 성장 솔루션을 개편했고, 머신러닝 기반 AI 상품 추천 광고를 도입했습니다. 입점 브랜드 대상 조사에서는 매출 성장을 위해 원하는 지원책으로 “플랫폼 내 상품 노출 최적화 기능”을 꼽은 응답이 72.2%로 가장 높았습니다. 
+Musinsa Newsroom
+
+개인화 추천 성과도 이미 있습니다. 무신사는 앱 개편과 AI 추천 기술 고도화 이후 구매 전환율이 약 3배 증가했고, 추천판 상품 구매 고객 수가 전년 대비 180% 이상 늘었으며, 추천판 거래액은 4배 가까이 늘었다고 발표했습니다. 또한 1억5000만 건의 패션 데이터를 기반으로 AI 추천 시나리오를 개편 이전보다 50배 넘게 만들었다고 밝혔습니다. 
+Musinsa Newsroom
+
+AI 조직/기술 투자도 적극적입니다. 무신사는 개발, 기획, 디자인, 운영, 콘텐츠 제작, 개인화 추천, 상품 후기 번역, 다국어 지원 등 다양한 영역에서 AI를 활용하고 있다고 밝혔고, ChatGPT 환경에서 상품 추천 및 후기 요약 앱과 무신사 에이전트 기반 상품 추천 데모도 선보였습니다. 
+Musinsa Newsroom
+ 이후에는 ChatGPT 내 무신사 앱을 출시하면서, TPO, 날씨·시즌 맥락, 가격대, 브랜드 취향, 실제 구매 후기까지 연결하는 대화형 패션·뷰티 탐색 경험을 제공한다고 발표했습니다. 
+Musinsa Newsroom
+
+3-2. 무신사가 실제로 풀고 싶은 문제
+
+무신사의 핵심 문제는 “추천을 잘하자”가 아닙니다. 이미 추천은 하고 있습니다. 진짜 문제는 더 앞단입니다.
+
+시장의 트렌드 변화가 너무 빠르고, 좋은 브랜드와 상품을 너무 늦게 발견하면 플랫폼의 큐레이션 경쟁력이 떨어진다.
+
+무신사 입장에서 중요한 문제는 네 가지입니다.
+
+문제	설명
+트렌드 조기 포착	플랫폼 밖에서 생기는 패션/뷰티 트렌드를 빠르게 발견해야 함
+상품·브랜드 연결	트렌드를 실제 판매 가능한 상품, 브랜드, 카테고리와 연결해야 함
+중소 브랜드 성장	좋은 브랜드가 있어도 노출 기회가 부족하면 성장하지 못함
+글로벌 확장	K-패션/뷰티를 해외 시장 맥락에 맞게 보여줘야 함
+
+여기서 해커톤 제출물은 단순 추천 챗봇이면 약합니다. 무신사가 이미 ChatGPT 앱, MCP, AI 트렌드 큐레이션, AI 추천 광고를 하고 있기 때문입니다. 또 인간은 뒤늦게 기존 기능을 베껴놓고 “혁신”이라고 부르는 이상한 습성이 있습니다. 그 길은 피해야 합니다.
+
+3-3. 플러그인 후보
+후보 A. Trend-to-Brand Opportunity Radar
+
+문제정의
+
+트렌드는 TikTok, Instagram, YouTube, 해외 패션 뉴스, 스트리트 스냅, 검색어, 리뷰, 커뮤니티에서 먼저 생깁니다. 그런데 이 신호를 무신사 내부 상품/브랜드와 연결하지 못하면 “지금 밀어야 할 브랜드”를 놓칩니다.
+
+플러그인 아이디어
+
+외부 트렌드 텍스트와 내부 상품 데이터를 넣으면 AI가 다음을 수행합니다.
+
+트렌드 키워드 추출
+예: 발레코어, 고프코어, Y2K, 실버 액세서리, 젤리슈즈, 선세럼
+
+트렌드 신호 강도 계산
+언급량, 증가율, 계절성, 카테고리 적합도
+
+무신사 상품 속성과 매핑
+색상, 소재, 핏, 가격대, 브랜드 무드, 리뷰 키워드
+
+기회 브랜드 추천
+대형 브랜드뿐 아니라 중소 브랜드 중 “트렌드와 잘 맞는데 노출이 낮은 브랜드” 탐지
+
+MD 액션 제안
+
+큐레이션 페이지 만들기
+
+메인 노출 후보
+
+광고 포인트 추천
+
+글로벌용 카피
+
+재고/입고 확인 질문
+
+설명 가능한 근거
+“왜 이 브랜드가 이 트렌드와 맞는지”를 리뷰·상품속성·트렌드 근거로 제시
+
+왜 무신사에 맞나
+
+무신사는 AI 트렌드 큐레이션에서 외부 비정형 트렌드 데이터를 수집·가공하고, 트렌드 키워드와 상품 속성을 자동 조합한다고 설명합니다. 
+Musinsa Newsroom
+ 또한 입점 브랜드는 상품 노출 최적화를 원하고, 무신사는 AI 추천 광고로 파트너 브랜드의 노출 기회를 넓히려 하고 있습니다. 
+Musinsa Newsroom
+
+제출용 한 줄
+
+“외부 트렌드 신호를 무신사 상품·브랜드 데이터와 연결해, 지금 발견해야 할 브랜드와 큐레이션 기회를 제안하는 MD용 AI 레이더.”
+
+후보 B. 중소 브랜드 Growth Coach
+
+문제정의
+
+무신사에는 많은 입점 브랜드가 있지만, 모든 브랜드가 노출 전략을 잘 짤 수 있는 것은 아닙니다. 브랜드 입장에서는 “어떤 상품을 언제, 어떤 고객에게, 어떤 카피로 노출해야 할지”가 어렵습니다. 무신사 설문에서도 입점 브랜드의 72.2%가 플랫폼 내 상품 노출 최적화 기능을 원하는 지원책으로 꼽았습니다. 
+Musinsa Newsroom
+
+플러그인 아이디어
+
+브랜드가 상품 URL이나 상품 정보를 입력하면 AI가 성장 전략을 제안합니다.
+
+상품 강점 분석
+소재, 핏, 가격, 리뷰, 스타일 무드
+
+적합 고객 세그먼트
+예: 20대 여성 출근룩, 남성 미니멀룩, 여름 여행룩
+
+노출 추천 위치
+추천판, 기획전, 트렌드 큐레이션, 검색 키워드
+
+광고 문구 생성
+무신사 톤, 29CM 톤, 글로벌 톤
+
+경쟁 상품 비교
+
+개선 필요 요소
+상품명, 썸네일, 상세 설명, 리뷰 확보, 가격 포지션
+
+차별화 포인트
+
+이건 소비자용 추천이 아니라 입점 브랜드/MD용 성장 플러그인입니다. 심사에서 “비즈니스 임팩트”를 설명하기 좋습니다.
+
+후보 C. Review-Grounded Styling Assistant
+
+문제정의
+
+무신사가 ChatGPT 앱에서 대화형 추천을 제공하고 있지만, 사용자가 실제 구매를 망설이는 이유는 “어울릴까?”보다 더 구체적입니다.
+
+사이즈가 맞을까?
+
+실제 색감이 다를까?
+
+발이 아플까?
+
+비침이 있을까?
+
+출근룩으로 과하지 않을까?
+
+리뷰에서 단점은 뭘까?
+
+플러그인 아이디어
+
+상품 리뷰를 기반으로 추천 이유와 리스크를 같이 보여줍니다.
+
+추천 스타일링
+
+리뷰 기반 장점
+
+리뷰 기반 주의점
+
+사이즈/핏 리스크
+
+TPO 적합성
+
+반품 가능성 높은 이유 예측
+
+왜 적합한가
+
+무신사의 ChatGPT 앱은 TPO, 날씨, 시즌, 가격대, 브랜드 취향, 실제 구매 고객 후기까지 연결한 추천을 제공한다고 발표했습니다. 
+Musinsa Newsroom
+ 따라서 해커톤에서는 “후기 기반 구매 불안 해소”처럼 더 좁혀야 합니다.
+
+후보 D. Global K-Fashion Localization Agent
+
+문제정의
+
+무신사는 글로벌 확장을 추진하고 있고, 일본·중국·동남아·유럽·중동 등으로 K-패션 영토를 확장한다는 계획을 밝혔습니다. 또 국내-글로벌 스토어 입점 연동, 글로벌 풀필먼트, 모바일 앱 통합 같은 지원책도 제시했습니다. 
+Musinsa Newsroom
+ 무신사 뷰티도 북미, 남미, 중동 등 해외 진출을 확대하겠다고 밝혔습니다. 
+Musinsa Newsroom
+
+플러그인 아이디어
+
+상품 정보를 입력하면 국가별 현지화 전략을 제안합니다.
+
+국가별 상품명/카피 현지화
+
+금기 표현/문화적 부적합 요소 탐지
+
+현지 인기 스타일과 매칭
+
+가격대 포지셔닝
+
+리뷰 번역 요약
+
+현지 마켓용 이미지 설명 생성
+
+제출용 한 줄
+
+“K-패션 브랜드가 해외 시장에 진출할 때 상품 설명, 리뷰, 트렌드 맥락을 현지 고객 언어로 바꿔주는 글로벌 MD 보조 플러그인.”
+
+3-4. 무신사 최우선 추천 주제
+추천: Trend-to-Brand Opportunity Radar
+평가축	판단
+회사 방향 적합성	매우 높음
+문제정의 선명도	매우 높음
+기존 기능과 차별화	소비자 추천이 아니라 MD/브랜드 기회 발굴로 차별화 가능
+비즈니스 임팩트	노출, CTR, 거래액, 브랜드 성장과 연결 가능
+데모 구현성	외부 트렌드 샘플 + 상품 mock data로 가능
+
+무신사 제출물은 이렇게 가야 합니다.
+
+“AI가 옷을 추천하는 도구”가 아니라,
+“AI가 플랫폼 밖 트렌드를 읽고, 무신사 안에서 지금 밀어야 할 브랜드·상품·큐레이션 기회를 찾는 도구.”
+
+4. 세 기업별 최종 문제 후보 비교
+기업	1순위 문제	사용자	핵심 가치	데모 난이도	제출 적합도
+삼일PwC	Trusted CEO Issue Radar	CEO/CFO/컨설턴트	기업 데이터에서 경영 이슈 발견	중간	매우 높음
+카카오페이증권	안심 매매 판단 코치	초보 투자자	근거·리스크 기반 투자 판단 보조	중간	매우 높음
+무신사	Trend-to-Brand Opportunity Radar	MD/입점 브랜드	트렌드와 상품/브랜드 연결	중간	매우 높음
+5. 제출 전략상 가장 강한 방향
+삼일PwC를 고르면
+
+제출물 톤
+
+“기업 데이터에서 문제를 발견하고, 근거 기반으로 CEO에게 설명하는 AI.”
+
+강점
+
+영상 기준과 가장 직접적으로 맞음
+
+문제정의, 근거, SOP, 신뢰성 모두 보여주기 좋음
+
+B2B 느낌이 강해서 “기업이 실제로 쓸 법한 도구”로 보임
+
+주의
+
+너무 회계 전문 답변기로 가면 기존 Tax Agent와 겹침
+
+너무 내부통제 쪽으로 가면 KSOX AI와 겹침
+
+그래서 “경영 이슈 발견”으로 잡는 게 낫습니다
+
+카카오페이증권을 고르면
+
+제출물 톤
+
+“초보 투자자가 매수/매도 결정을 내릴 때, AI가 근거와 리스크를 정리해 안심시키는 판단 보조 도구.”
+
+강점
+
+사용자 감정과 UX를 보여주기 좋음
+
+금융 AI의 신뢰성, 설명가능성, 보조수단성을 반영하면 평가 포인트가 선명함
+
+데모가 직관적임
+
+주의
+
+“사라/팔아라” 하면 위험합니다
+
+수익률 예측 게임으로 가면 망합니다
+
+판단 과정 설계, 리스크 안내, 사용자 설득에 집중해야 합니다
+
+무신사를 고르면
+
+제출물 톤
+
+“트렌드를 놓치지 않고, 좋은 브랜드를 빠르게 발견해 비즈니스 기회로 바꾸는 AI.”
+
+강점
+
+시각적 데모가 잘 나옴
+
+트렌드 → 상품 → 브랜드 → 큐레이션 → 매출 임팩트 흐름이 좋음
+
+무신사의 최근 AI 방향과 정확히 맞음
+
+주의
+
+단순 코디 추천 챗봇은 이미 무신사가 하고 있음
+
+소비자 추천보다 MD/브랜드 성장/트렌드 발굴로 잡아야 차별화됩니다
+
+6. 지금 기준 제일 추천하는 선택
+1순위: 무신사 - Trend-to-Brand Opportunity Radar
+
+가장 해커톤 제출물로 보기 좋습니다. 이유는 세 가지입니다.
+
+문제정의가 선명함
+“무신사는 패션·뷰티에서 앞서가기 위해 트렌드와 브랜드를 빨리 발견해야 한다.”
+
+데모가 시각적으로 강함
+트렌드 키워드, 상품 카드, 브랜드 매칭, 큐레이션 제안 화면을 만들기 쉽습니다.
+
+비즈니스 임팩트 설명이 쉬움
+CTR, 상세페이지 조회, 추천판 거래액, 브랜드 성장, 글로벌 확장으로 연결할 수 있습니다.
+
+무신사는 이미 AI 추천과 ChatGPT 앱을 하고 있으므로, 제출물은 소비자용 추천이 아니라 MD/파트너용 문제 해결 도구로 가야 합니다. 그래야 “아, 얘가 회사를 봤네”가 됩니다. 단순 쇼핑 챗봇은 그냥 디지털 마네킹입니다.
+
+7. 각 기업별 제출용 문제정의 문장
+삼일PwC
+
+기업 내부에는 매출, 비용, 재고, 고객, 계약, 회계 데이터가 흩어져 있지만, 경영진이 지금 판단해야 할 핵심 문제는 늦게 발견된다. 이 플러그인은 분산된 데이터를 분석해 CEO/CFO가 봐야 할 경영 이슈를 자동으로 정의하고, 그 근거와 다음 질문을 SOP에 맞춰 제시한다.
+
+카카오페이증권
+
+초보 투자자는 매수·매도 순간에 정보는 많지만 판단 기준이 부족해 불안과 충동 사이에서 흔들린다. 이 플러그인은 종목 뉴스, 실적, 가격 변화, 사용자 상황을 바탕으로 직접 추천이 아닌 근거·리스크·선택지를 제시해 사용자가 스스로 납득 가능한 투자 결정을 내리도록 돕는다.
+
+무신사
+
+패션·뷰티 트렌드는 플랫폼 밖에서 빠르게 생기지만, 이를 상품·브랜드·큐레이션 기회로 연결하지 못하면 좋은 브랜드와 매출 기회를 놓친다. 이 플러그인은 외부 트렌드 신호와 내부 상품 데이터를 연결해 지금 발견해야 할 브랜드와 MD 액션을 추천한다.
+
+8. 다음 단계로 바로 만들 기획서 뼈대
+
+가장 추천하는 무신사 기준으로 MVP를 잡으면 이렇게 갑니다.
+
+MVP 이름
+
+MUSINSA Trend Opportunity Radar
+
+사용자
+
+무신사 MD
+
+브랜드 성장 담당자
+
+입점 브랜드 마케터
+
+입력 데이터
+데이터	예시
+외부 트렌드 텍스트	SNS 게시글, 패션 뉴스, 검색어, 커뮤니티 글
+상품 데이터	상품명, 카테고리, 브랜드, 가격, 색상, 소재, 태그
+리뷰 데이터	핏, 사이즈, 장점, 단점, TPO
+판매/노출 데이터	조회수, CTR, 구매전환율, 재고
+브랜드 정보	브랜드 무드, 타깃 고객, 가격대
+출력
+
+급상승 트렌드 키워드
+
+트렌드 설명
+
+관련 상품/브랜드 후보
+
+기회 점수
+
+근거
+
+MD 액션
+
+큐레이션 페이지 초안
+
+브랜드용 광고 카피
+
+핵심 화면
+화면	내용
+Trend Monitor	이번 주 급상승 트렌드
+Opportunity Match	트렌드와 맞는 상품/브랜드 매칭
+Evidence Panel	왜 이 매칭이 맞는지 근거
+Action Plan	MD가 할 일
+Preview	소비자에게 보일 큐레이션 미리보기
+평가 지표
+지표	의미
+Trend-to-product match accuracy	트렌드와 상품 매칭 품질
+CTR uplift 예상	노출 클릭 개선
+Brand discovery score	노출 낮지만 트렌드 적합한 브랜드 발견
+MD time saved	수작업 리서치 시간 절감
+Explanation quality	심사위원 설득력
+9. 지금 당장 버려야 할 아이디어
+버릴 아이디어	이유
+삼일PwC용 단순 회계 Q&A	이미 Tax Agent/Accounting Insights 방향과 겹침
+삼일PwC용 “PDF 요약봇”	너무 얕음
+카카오페이증권용 주식 추천봇	규제·신뢰성 리스크가 큼
+카카오페이증권용 수익률 예측기	틀리면 끝이고 맞아도 위험함
+무신사용 코디 추천 챗봇	이미 무신사가 ChatGPT 앱과 대화형 추천을 하고 있음
+무신사용 상품 검색 챗봇	기존 검색/추천의 하위 호환
+최종 판단
+
+세 기업 중 해커톤 제출물로 가장 안전하고 강한 건:
+
+무신사: Trend-to-Brand Opportunity Radar
+
+그다음은:
+
+카카오페이증권: 안심 매매 판단 코치
+
+삼일PwC는 가장 기업적이고 평가 기준에 잘 맞지만, 기존 솔루션과 겹치지 않게 문제를 좁히는 난도가 조금 더 높습니다.
+
+한 문장으로 정리하면 이겁니다.
+
+AI 플러그인은 “답을 내는 도구”가 아니라, 회사가 실제로 놓치고 있는 판단의 병목을 찾아 사람의 결정을 빠르게 만드는 도구여야 합니다.
+
+Sources
+
+I’ll turn each concept into a paste-ready Codex build prompt that creates the submission folder, plugin files, examples, outputs, and basic validation.
+
+Thought for 2m 33s
+
+아래는 Codex에 그대로 붙여넣을 프롬프트입니다.
+각자 자기 주제 하나만 골라서 쓰면 됩니다. 세 개 다 만들 필요 없습니다. 괜히 셋 다 만들면 “열심히 했지만 산만함”이라는 인간 사회의 흔한 비극이 됩니다.
+
+0. 공통 사용법
+
+각자 새 작업 폴더를 만들고, 거기서 Codex에 아래 프롬프트 중 하나를 붙여넣으면 됩니다.
+
+주의:
+- 외부 API 사용하지 말 것
+- API key, token, password 만들거나 요구하지 말 것
+- MCP 서버는 만들지 말 것
+- plugin.json, SKILL.md, README.md는 반드시 만들 것
+- logs 폴더는 만들되, 로그 파일을 가짜로 생성하지 말 것
+- 실제 대화 로그는 내가 나중에 logs 폴더에 넣을 예정이라고 README에 명시할 것
+1. 무신사 프롬프트
+Same-less Style Analyst
+
+아래 전체를 Codex에 붙여넣으세요.
+
+너는 Codex 플러그인 개발자다.
+
+목표:
+무신사 상품·랭킹·리뷰 데이터를 기반으로 “무신사 냄새”가 나는 흔한 코디 위험도를 계산하고, 사용자가 피하고 싶은 스타일을 반영해 덜 겹치는 대체 코디 리포트를 생성하는 Codex 플러그인을 만들어라.
+
+이 프로젝트는 앱이 아니라 Codex workflow plugin이다.
+사용자는 Codex에게 로컬 CSV/JSON 파일을 분석하라고 시키고, Codex는 스크립트와 skill 지침을 이용해 Markdown/JSON/CSV 산출물을 생성해야 한다.
+
+프로젝트 이름:
+sameless-style-analyst
+
+반드시 아래 구조로 만들어라:
+
+submission.zip은 지금 만들지 말고, 먼저 아래 파일 구조를 작업 폴더에 생성해라.
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── sameless-style-analyst/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── clone_risk.py
+│   │   └── outfit_report.py
+│   ├── examples/
+│   │   ├── products.csv
+│   │   ├── rankings.csv
+│   │   ├── reviews.csv
+│   │   └── user_request.json
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_clone_risk.py
+├── README.md
+└── logs/
+    └── README.md
+
+요구사항:
+
+1. src/.codex-plugin/plugin.json
+- Codex plugin manifest를 작성한다.
+- name: sameless-style-analyst
+- version: 1.0.0
+- description: 무신사 상품 데이터를 분석해 Clone Risk Score와 덜 흔한 스타일 추천 리포트를 생성하는 Codex workflow plugin
+- skills 경로는 ./skills/ 로 지정한다.
+
+2. src/skills/sameless-style-analyst/SKILL.md
+Codex가 이 skill을 사용할 때 따라야 할 절차를 작성한다.
+반드시 포함할 내용:
+- 이 skill은 일반 패션 챗봇이 아니라, 상품 데이터 기반의 취향 동질화 방지 분석 workflow라는 점
+- 입력 파일:
+  - products.csv
+  - rankings.csv
+  - reviews.csv
+  - user_request.json
+- 출력 파일:
+  - outputs/sameless_recommendations.md
+  - outputs/recommendation.json
+  - outputs/clone_risk_scores.csv
+- 반드시 Clone Risk Score를 계산해야 함
+- 반드시 회피 스타일이 추천 결과에 들어가지 않도록 점검해야 함
+- 추천 이유에는 “왜 덜 흔한지”, “왜 실제로 입을 수 있는지”, “어떤 요소를 피했는지”를 포함해야 함
+- 결과는 보수적이고 설명 가능해야 함
+
+3. 예시 데이터 생성
+src/examples/products.csv를 만든다.
+최소 20개 상품을 넣어라.
+컬럼:
+product_id,brand,name,category,color,silhouette,material,price,tags
+
+src/examples/rankings.csv를 만든다.
+컬럼:
+product_id,rank,popularity_score
+
+src/examples/reviews.csv를 만든다.
+컬럼:
+product_id,review_keywords,commonness_signal,positive_signal
+
+src/examples/user_request.json을 만든다.
+예시:
+- 남자
+- 178cm
+- 여름 데이트룩
+- 예산 200000원
+- 피하고 싶은 요소:
+  - 무신사 냄새
+  - black wide pants
+  - oversized graphic t-shirt
+  - german army sneakers
+- divergence_level: safe-but-different
+
+4. src/tools/clone_risk.py
+Python 표준 라이브러리만 사용해서 작성한다.
+pandas 같은 외부 라이브러리는 사용하지 말 것.
+
+기능:
+- products.csv, rankings.csv, reviews.csv, user_request.json을 읽는다.
+- 각 상품에 대해 clone_risk_score를 0~100 사이로 계산한다.
+- 점수 기준:
+  - 랭킹이 높고 popularity_score가 높으면 위험 증가
+  - review의 commonness_signal이 높으면 위험 증가
+  - 사용자의 avoid 키워드와 tags/name/category/silhouette/color가 겹치면 위험 증가
+  - black, gray, oversized, wide, basic, minimal 같은 흔한 조합 신호가 있으면 위험 증가
+  - unique material, muted color, non-overfit silhouette, lower ranking 상품은 위험 감소
+- 점수와 이유를 CSV로 저장한다.
+- CLI로 실행 가능해야 한다.
+
+CLI 예시:
+python src/tools/clone_risk.py \
+  --products src/examples/products.csv \
+  --rankings src/examples/rankings.csv \
+  --reviews src/examples/reviews.csv \
+  --request src/examples/user_request.json \
+  --out-dir src/outputs
+
+출력:
+src/outputs/clone_risk_scores.csv
+
+5. src/tools/outfit_report.py
+Python 표준 라이브러리만 사용해서 작성한다.
+
+기능:
+- clone_risk_scores.csv와 원본 상품 데이터를 읽는다.
+- 사용자의 예산 안에서 3~5개 상품으로 대체 코디를 구성한다.
+- 회피 키워드와 충돌하는 상품은 제외한다.
+- clone_risk_score가 낮은 상품 위주로 추천하되, 카테고리 균형을 맞춘다.
+  예: top, bottom, shoes, bag/accessory
+- Markdown 리포트와 JSON 추천 결과를 생성한다.
+
+CLI 예시:
+python src/tools/outfit_report.py \
+  --products src/examples/products.csv \
+  --scores src/outputs/clone_risk_scores.csv \
+  --request src/examples/user_request.json \
+  --out-dir src/outputs
+
+출력:
+src/outputs/sameless_recommendations.md
+src/outputs/recommendation.json
+
+Markdown 리포트에는 다음 섹션을 포함한다:
+# Same-less Style Analyst Report
+## User Request
+## Avoided Style Factors
+## Clone Risk Summary
+## Recommended Outfit
+## Why This Is Less Common
+## Budget Check
+## Human Review Notes
+
+6. src/tests/test_clone_risk.py
+unittest 기반으로 작성한다.
+테스트:
+- clone_risk_score가 0~100 범위인지 확인
+- avoid keyword와 충돌하는 상품의 점수가 높아지는지 확인
+- 출력 파일이 생성되는지 확인
+- 추천 결과 JSON에 avoided 키워드가 포함되지 않는지 확인
+
+7. README.md
+한국어로 작성한다.
+포함:
+- 플러그인 개요
+- 문제정의
+- 누가 쓰는지
+- 파일 구조
+- 실행 방법
+- 예시 명령어
+- 생성되는 산출물
+- 검증 방법
+- logs 폴더에는 실제 대화 로그를 사용자가 나중에 넣어야 하며, 가짜 로그를 만들지 않았다고 명시
+
+8. logs/README.md
+“이 폴더에는 제출 시 AI와 주고받은 전체 대화 로그를 넣는다. 가짜 로그는 생성하지 않는다.”라고 작성한다.
+
+9. 마지막에 실제로 아래 명령을 실행해라.
+python src/tools/clone_risk.py --products src/examples/products.csv --rankings src/examples/rankings.csv --reviews src/examples/reviews.csv --request src/examples/user_request.json --out-dir src/outputs
+
+python src/tools/outfit_report.py --products src/examples/products.csv --scores src/outputs/clone_risk_scores.csv --request src/examples/user_request.json --out-dir src/outputs
+
+python -m unittest discover src/tests
+
+실행 결과를 요약해서 알려줘.
+문제가 있으면 수정한 뒤 다시 테스트해라.
+2. 카카오페이증권 프롬프트
+Guru Lens Research Writer
+
+아래 전체를 Codex에 붙여넣으세요.
+
+너는 Codex 플러그인 개발자다.
+
+목표:
+초보 투자자가 관심 종목을 유명 투자자의 사고방식으로 이해할 수 있도록, 종목 데이터와 구루별 투자 철학 템플릿을 읽고 “매수/매도 추천 없이” 판단 보조 리포트를 생성하는 Codex 플러그인을 만들어라.
+
+이 프로젝트는 투자 추천 앱이 아니다.
+Codex workflow plugin이다.
+반드시 교육용 분석, 판단 기준, 리스크, 반대 근거, 자기점검 질문 중심으로 출력해야 한다.
+
+프로젝트 이름:
+guru-lens-research-writer
+
+반드시 아래 구조로 만들어라:
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── guru-lens-research-writer/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── guru_lens.py
+│   │   └── compliance_check.py
+│   ├── examples/
+│   │   ├── stock_metrics.csv
+│   │   ├── public_holdings.csv
+│   │   ├── guru_lenses.json
+│   │   └── user_profile.json
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_guru_lens.py
+├── README.md
+└── logs/
+    └── README.md
+
+요구사항:
+
+1. src/.codex-plugin/plugin.json
+- name: guru-lens-research-writer
+- version: 1.0.0
+- description: 관심 종목을 투자 대가의 관점으로 해석하되 매수/매도 추천 없이 판단 보조 리포트를 생성하는 Codex workflow plugin
+- skills 경로는 ./skills/ 로 지정한다.
+
+2. src/skills/guru-lens-research-writer/SKILL.md
+반드시 포함할 내용:
+- 이 skill은 종목 추천기가 아니라 투자 판단 교육 리포트 생성 workflow임
+- 직접적인 buy, sell, hold 추천 금지
+- 수익률 예측 금지
+- 확정적 표현 금지
+- 모든 리포트에는 리스크, 반대 근거, 초보자 자기점검 질문 포함
+- 출력은 교육용 decision-support로만 표현
+- 사용자가 “사도 돼?”라고 물어도 “판단 기준”으로 바꿔서 답해야 함
+- 출력 파일:
+  - outputs/guru_lens_report.md
+  - outputs/investor_questions.md
+  - outputs/compliance_check.md
+  - outputs/guru_lens_report.json
+
+3. 예시 데이터 생성
+src/examples/stock_metrics.csv
+컬럼:
+ticker,company,sector,revenue_growth,operating_margin,pe_ratio,free_cash_flow,price_change_6m,debt_ratio,dividend_yield,volatility
+
+최소 8개 종목 포함:
+NVDA, TSLA, AAPL, MSFT, KO, JPM, AMZN, COST
+
+src/examples/public_holdings.csv
+컬럼:
+guru_name,ticker,holding_weight,reported_quarter,notes
+
+src/examples/guru_lenses.json
+구루 렌즈를 JSON으로 정의한다.
+최소 포함:
+- Buffett Lens
+  - moat
+  - cash flow
+  - margin of safety
+  - quality
+- Peter Lynch Lens
+  - understandable story
+  - growth
+  - valuation vs growth
+- Dalio Lens
+  - macro cycle
+  - diversification
+  - interest rate sensitivity
+- Momentum Lens
+  - trend
+  - price action
+  - market reaction
+- Dividend Lens
+  - dividend stability
+  - cash flow
+  - defensive quality
+
+src/examples/user_profile.json
+예시:
+{
+  "experience": "beginner",
+  "risk_tolerance": "medium",
+  "time_horizon": "3 years",
+  "target_ticker": "NVDA"
+}
+
+4. src/tools/guru_lens.py
+Python 표준 라이브러리만 사용한다.
+외부 API, yfinance, pandas 사용 금지.
+
+기능:
+- stock_metrics.csv, public_holdings.csv, guru_lenses.json, user_profile.json을 읽는다.
+- target_ticker에 대해 각 렌즈별 분석을 생성한다.
+- Markdown 리포트와 JSON 리포트를 생성한다.
+- 직접적인 매수/매도/보유 추천을 하지 않는다.
+- 각 렌즈마다 다음을 포함한다:
+  - What this lens checks
+  - Supporting signals
+  - Caution signals
+  - Questions for the investor
+- Beginner Safety Check 섹션을 반드시 포함한다.
+- Next Actions 섹션에는 안전한 행동만 포함한다:
+  - 관심종목 저장
+  - 모의투자
+  - 다음 실적 발표 후 재검토
+  - 포트폴리오 비중 확인
+  - 대체 종목 비교
+
+CLI 예시:
+python src/tools/guru_lens.py \
+  --metrics src/examples/stock_metrics.csv \
+  --holdings src/examples/public_holdings.csv \
+  --lenses src/examples/guru_lenses.json \
+  --profile src/examples/user_profile.json \
+  --out-dir src/outputs
+
+출력:
+src/outputs/guru_lens_report.md
+src/outputs/guru_lens_report.json
+src/outputs/investor_questions.md
+
+5. src/tools/compliance_check.py
+금융 추천처럼 보이는 위험한 표현이 리포트에 들어갔는지 검사한다.
+
+금지 표현 예:
+- buy now
+- sell now
+- strong buy
+- guaranteed
+- target return
+- 반드시 사야
+- 지금 매수
+- 지금 매도
+- 무조건
+- 확실한 수익
+- 수익 보장
+- 보유 추천
+- 매수 추천
+- 매도 추천
+
+CLI 예시:
+python src/tools/compliance_check.py \
+  --report src/outputs/guru_lens_report.md \
+  --out src/outputs/compliance_check.md
+
+compliance_check.md에는:
+- PASS/FAIL
+- 발견된 위험 표현
+- 수정 제안
+을 포함한다.
+
+6. src/tests/test_guru_lens.py
+unittest 기반으로 작성한다.
+테스트:
+- 리포트 파일이 생성되는지
+- 직접적인 매수/매도 추천 금지 표현이 없는지
+- 모든 렌즈에 Questions 섹션이 있는지
+- Beginner Safety Check가 있는지
+- compliance_check.py가 PASS를 출력하는지
+
+7. README.md
+한국어로 작성한다.
+포함:
+- 플러그인 개요
+- 문제정의
+- 누가 쓰는지
+- 금융 추천이 아니라 판단 보조라는 점
+- 파일 구조
+- 실행 방법
+- 예시 명령어
+- 생성되는 산출물
+- 검증 방법
+- 한계
+- logs 폴더에는 실제 대화 로그를 사용자가 나중에 넣어야 하며, 가짜 로그를 만들지 않았다고 명시
+
+8. logs/README.md
+“이 폴더에는 제출 시 AI와 주고받은 전체 대화 로그를 넣는다. 가짜 로그는 생성하지 않는다.”라고 작성한다.
+
+9. 마지막에 실제로 아래 명령을 실행해라.
+python src/tools/guru_lens.py --metrics src/examples/stock_metrics.csv --holdings src/examples/public_holdings.csv --lenses src/examples/guru_lenses.json --profile src/examples/user_profile.json --out-dir src/outputs
+
+python src/tools/compliance_check.py --report src/outputs/guru_lens_report.md --out src/outputs/compliance_check.md
+
+python -m unittest discover src/tests
+
+실행 결과를 요약해서 알려줘.
+문제가 있으면 수정한 뒤 다시 테스트해라.
+3. 삼일PwC 프롬프트
+PBC Evidence Concierge
+
+아래 전체를 Codex에 붙여넣으세요.
+
+너는 Codex 플러그인 개발자다.
+
+목표:
+감사·세무·자문 과정의 PBC 자료요청 리스트를 해석하고, 로컬 증빙 폴더를 점검해 누락·부족·불일치 항목을 찾아낸 뒤, 제출 패키지 보고서와 추가 요청 메일을 생성하는 Codex 플러그인을 만들어라.
+
+이 프로젝트는 회계 Q&A 챗봇이 아니다.
+CFO 대시보드도 아니다.
+자료요청과 증빙 제출 병목을 해결하는 Codex workflow plugin이다.
+
+프로젝트 이름:
+pbc-evidence-concierge
+
+반드시 아래 구조로 만들어라:
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── pbc-evidence-concierge/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── pbc_matcher.py
+│   │   └── report_writer.py
+│   ├── examples/
+│   │   ├── pbc_requests.csv
+│   │   ├── trial_balance.csv
+│   │   └── evidence_manifest.csv
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_pbc_matcher.py
+├── README.md
+└── logs/
+    └── README.md
+
+요구사항:
+
+1. src/.codex-plugin/plugin.json
+- name: pbc-evidence-concierge
+- version: 1.0.0
+- description: PBC 자료요청을 증빙 체크리스트로 분해하고 로컬 증빙 파일의 제출 준비도를 검토하는 Codex workflow plugin
+- skills 경로는 ./skills/ 로 지정한다.
+
+2. src/skills/pbc-evidence-concierge/SKILL.md
+반드시 포함할 내용:
+- 이 skill은 감사·세무·자문 자료요청 검토 workflow임
+- 일반 재무 대시보드나 회계 Q&A가 아님
+- PBC는 Prepared By Client를 의미한다고 설명
+- 입력:
+  - pbc_requests.csv
+  - evidence_manifest.csv
+  - trial_balance.csv가 있으면 참고
+- 출력:
+  - outputs/pbc_evidence_review.md
+  - outputs/missing_items.md
+  - outputs/submission_package_manifest.json
+  - outputs/followup_email_draft.md
+- Codex가 수행해야 할 절차:
+  1. PBC 요청 문장 읽기
+  2. 요청 목적 추론
+  3. 필요 증빙 분해
+  4. 필수 연결키 도출
+  5. evidence manifest와 매칭
+  6. Ready / Partially ready / Missing / Needs human review로 분류
+  7. 부족한 사유와 추가 요청 문안 생성
+- 보수적으로 판단할 것
+- 증빙을 조작하거나 있다고 가정하지 말 것
+- 충분성이 애매하면 Needs human review로 표시할 것
+
+3. 예시 데이터 생성
+src/examples/pbc_requests.csv
+컬럼:
+request_id,request_text,period,entity
+
+최소 요청 5개:
+- AR-03: 매출채권 aging report, 90일 초과 채권 회수가능성 검토자료, 고객별 계약 조건, 후속 회수 내역
+- CUT-01: 매출 cutoff 테스트 대상 거래의 계약서, 세금계산서, 출고증빙
+- JE-02: 수기 분개 journal entry 승인 내역 및 작성자/검토자 로그
+- INV-04: 재고자산 평가충당금 산정 근거 및 장기체화 재고 리스트
+- RP-05: 특수관계자 거래 내역 및 계약 조건
+
+src/examples/evidence_manifest.csv
+실제 파일을 만들 필요는 없고, 파일 manifest 형태로 만든다.
+컬럼:
+file_name,file_type,period,entity,keywords,columns,source,approval_status,notes
+
+각 요청에 대해 일부는 충분, 일부는 누락, 일부는 부분 충족이 되도록 샘플을 만든다.
+예:
+- AR_Aging_20260331.xlsx
+- Bank_Receipts_April.csv
+- Customer_Terms_Top10.pdf
+- Sales_Invoices_March.zip
+- Delivery_Notes_March.pdf
+- Manual_JE_List.xlsx
+- Inventory_Aging_Q1.xlsx
+- Related_Party_Transactions.xlsx
+
+src/examples/trial_balance.csv
+컬럼:
+account,period,entity,amount
+
+4. src/tools/pbc_matcher.py
+Python 표준 라이브러리만 사용한다.
+pandas 사용 금지.
+
+기능:
+- pbc_requests.csv와 evidence_manifest.csv를 읽는다.
+- request_text에서 요청 유형을 분류한다.
+  예:
+  - AR / receivables
+  - cutoff
+  - journal entry
+  - inventory
+  - related party
+- 요청 유형별 required_evidence를 생성한다.
+- 필수 연결키를 생성한다.
+  예:
+  - AR: customer_id, invoice_id, due_date, amount, receipt_date
+  - cutoff: invoice_id, contract_id, shipment_date, revenue_date
+  - JE: journal_id, preparer, reviewer, approval_date
+  - inventory: item_id, aging_days, NRV, allowance_amount
+  - related party: counterparty, contract_id, transaction_amount, terms
+- evidence_manifest의 keywords, columns, period, entity를 기준으로 매칭한다.
+- 각 요청을 다음 중 하나로 분류한다:
+  - Ready
+  - Partially ready
+  - Missing
+  - Needs human review
+- 결과 JSON을 생성한다.
+
+CLI 예시:
+python src/tools/pbc_matcher.py \
+  --requests src/examples/pbc_requests.csv \
+  --evidence src/examples/evidence_manifest.csv \
+  --trial-balance src/examples/trial_balance.csv \
+  --out src/outputs/submission_package_manifest.json
+
+5. src/tools/report_writer.py
+Python 표준 라이브러리만 사용한다.
+
+기능:
+- submission_package_manifest.json을 읽는다.
+- Markdown 보고서를 생성한다.
+- 누락 자료 리스트를 생성한다.
+- 내부 담당자에게 보낼 follow-up email draft를 생성한다.
+
+CLI 예시:
+python src/tools/report_writer.py \
+  --manifest src/outputs/submission_package_manifest.json \
+  --out-dir src/outputs
+
+출력:
+src/outputs/pbc_evidence_review.md
+src/outputs/missing_items.md
+src/outputs/followup_email_draft.md
+
+pbc_evidence_review.md에는 다음 섹션을 포함한다:
+# PBC Evidence Concierge Report
+## Summary
+## Request-by-Request Review
+## Missing or Insufficient Evidence
+## Human Review Notes
+## Submission Readiness
+
+각 요청별로 포함:
+- request_id
+- request_text
+- inferred purpose
+- required evidence
+- required keys
+- matched files
+- status
+- issues
+- next actions
+
+6. src/tests/test_pbc_matcher.py
+unittest 기반으로 작성한다.
+테스트:
+- pbc_matcher.py 실행 시 manifest JSON이 생성되는지
+- 요청 5개가 모두 결과에 포함되는지
+- 최소 하나는 Ready, 하나는 Partially ready, 하나는 Missing 또는 Needs human review로 분류되는지
+- AR 요청에서 customer_id, invoice_id, due_date, amount 같은 required key가 생성되는지
+- report_writer.py 실행 시 pbc_evidence_review.md, missing_items.md, followup_email_draft.md가 생성되는지
+
+7. README.md
+한국어로 작성한다.
+포함:
+- 플러그인 개요
+- 문제정의
+- PBC 의미
+- 누가 쓰는지
+- 왜 니치하지만 중요한 문제인지
+- 파일 구조
+- 실행 방법
+- 예시 명령어
+- 생성되는 산출물
+- 검증 방법
+- 한계와 human review 필요성
+- logs 폴더에는 실제 대화 로그를 사용자가 나중에 넣어야 하며, 가짜 로그를 만들지 않았다고 명시
+
+8. logs/README.md
+“이 폴더에는 제출 시 AI와 주고받은 전체 대화 로그를 넣는다. 가짜 로그는 생성하지 않는다.”라고 작성한다.
+
+9. 마지막에 실제로 아래 명령을 실행해라.
+python src/tools/pbc_matcher.py --requests src/examples/pbc_requests.csv --evidence src/examples/evidence_manifest.csv --trial-balance src/examples/trial_balance.csv --out src/outputs/submission_package_manifest.json
+
+python src/tools/report_writer.py --manifest src/outputs/submission_package_manifest.json --out-dir src/outputs
+
+python -m unittest discover src/tests
+
+실행 결과를 요약해서 알려줘.
+문제가 있으면 수정한 뒤 다시 테스트해라.
+4. 코딩 끝난 뒤 제출 zip 만드는 프롬프트
+
+코딩이 끝나고 테스트까지 통과하면 아래를 Codex에 붙여넣으면 됩니다.
+
+이제 제출 전 점검을 해줘.
+
+요구 제출 구조:
+submission.zip
+├── src/
+│   ├── .codex-plugin/plugin.json
+│   ├── skills/<plugin-name>/SKILL.md
+│   └── 그 밖의 실행 코드와 설정 파일
+├── README.md
+└── logs/
+
+확인할 것:
+1. src/.codex-plugin/plugin.json이 존재하는지
+2. src/skills/<plugin-name>/SKILL.md가 존재하는지
+3. plugin.json 외에 실제 동작 구성 요소가 하나 이상 있는지
+4. README.md가 루트에 있는지
+5. logs 폴더가 있는지
+6. outputs 산출물이 생성되는지
+7. 테스트가 통과하는지
+8. 외부 API key, token, password 같은 비밀정보가 없는지
+9. 가짜 대화 로그를 만들지 않았는지
+
+그다음 submission.zip을 생성해라.
+단, logs 폴더에는 내가 실제 대화 로그를 넣어야 하므로, 현재 logs/README.md만 있다면 README에 그 사실을 명확히 남겨라.
+
+마지막으로 zip 안의 파일 목록을 출력해라.
+5. 질문 5문항 답변 생성용 프롬프트
+
+코드가 만들어진 뒤, README를 보고 질문지 초안을 뽑을 때 쓰세요.
+
+이 프로젝트의 README.md, src/.codex-plugin/plugin.json, src/skills/*/SKILL.md, tools 코드, examples, outputs를 읽고 제출용 질문 5문항 답변 초안을 작성해줘.
+
+질문:
+1. 무엇을, 누가, 어떤 상황에서 쓰나요?
+2. 왜 이 문제를 선택했나요?
+3. 플러그인은 어떻게 작동하나요?
+4. AI를 어떻게 활용했나요?
+5. 어떻게 검증했나요?
+
+조건:
+- 한국어로 작성
+- 각 답변은 4~6문장 정도
+- 너무 과장하지 말 것
+- 실제 구현된 파일과 기능만 언급할 것
+- 코드에 없는 기능을 있다고 쓰지 말 것
+- 한계와 human review 필요성을 자연스럽게 포함할 것
+- 앱이 아니라 Codex workflow plugin이라는 점을 명확히 할 것
+6. 최종 선택 가이드
+주제	붙여넣을 프롬프트
+무신사	Same-less Style Analyst 프롬프트
+카카오페이증권	Guru Lens Research Writer 프롬프트
+삼일PwC	PBC Evidence Concierge 프롬프트
+
+개인적으로는 이렇게 배정하면 깔끔합니다.
+
+프론트/패션 감각 있는 사람 → 무신사
+금융·리포트 감각 있는 사람 → 카카오페이증권
+파일 처리·업무자동화 좋아하는 사람 → 삼일PwC
+
+그리고 제일 Codex 플러그인답게 나올 가능성이 높은 건 여전히 삼일PwC PBC Evidence Concierge입니다. Codex가 파일 읽고, 검사하고, 리포트 만드는 데는 꽤 쓸만합니다. 드물게 인간 도구답게 생겼습니다.
+
+영어로 만들어 그리고 각 플러그인 이름 좀 바꿀거야 좀 더 사람냄새나도록
+무신사: musinsa-smell-remover
+카카오페이증권 : guru-avator
+삼일 : 추천좀
+
+
+I’ll humanize the plugin names, keep the Musinsa name direct, correct Kakao’s spelling to guru-avatar, and choose a more natural Samil name before rewriting the prompts in English.
+
+Thought for 3m 10s
+
+좋습니다. 이름은 이렇게 가는 게 낫습니다.
+
+기업	추천 플러그인 이름	코멘트
+무신사	musinsa-smell-remover	날것의 문제의식이 살아 있음. 다만 README에서는 “clone-look reduction”처럼 포장해야 함. 인간들은 진실을 싫어해서요.
+카카오페이증권	guru-avatar	guru-avator는 오타처럼 보입니다. 제출용이면 avatar가 안전합니다.
+삼일PwC	pbc-paper-chaser	제일 추천. 회계법인 실무에서 자료 쫓아다니는 느낌이 살아 있음. 니치하고 사람 냄새도 남.
+
+삼일 이름 후보는 아래 중에서 고르면 됩니다.
+
+이름	느낌	추천도
+pbc-paper-chaser	자료요청을 따라가며 빠진 증빙을 찾는 느낌	★★★★★
+audit-paper-trail	감사 증빙 흐름을 만든다는 느낌, 더 점잖음	★★★★☆
+evidence-wrangler	흩어진 증빙을 정리하는 느낌, 약간 캐주얼	★★★★☆
+pbc-folder-doctor	폴더 상태를 진단하는 느낌, 귀엽지만 덜 전문적	★★★☆☆
+missing-doc-hunter	누락 문서 찾는 느낌, 직관적	★★★☆☆
+
+최종 추천은:
+
+musinsa-smell-remover
+guru-avatar
+pbc-paper-chaser
+
+아래는 Codex에 그대로 붙여넣을 영어 프롬프트입니다.
+
+1. Musinsa Prompt
+Plugin name: musinsa-smell-remover
+You are a Codex plugin developer.
+
+Build a Codex workflow plugin named:
+
+musinsa-smell-remover
+
+Goal:
+Create a Codex plugin that analyzes Musinsa-style product, ranking, and review data to detect "clone-look" or "Musinsa smell" risk, then generates less-common but still wearable outfit recommendations.
+
+This is not a consumer shopping app.
+This is a Codex workflow plugin that reads local CSV/JSON files and produces Markdown, JSON, and CSV outputs.
+
+Create the following project structure:
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── musinsa-smell-remover/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── clone_risk.py
+│   │   └── outfit_report.py
+│   ├── examples/
+│   │   ├── products.csv
+│   │   ├── rankings.csv
+│   │   ├── reviews.csv
+│   │   └── user_request.json
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_clone_risk.py
+├── README.md
+└── logs/
+    └── README.md
+
+Requirements:
+
+1. src/.codex-plugin/plugin.json
+
+Create a valid Codex plugin manifest.
+
+Use:
+- name: musinsa-smell-remover
+- version: 1.0.0
+- description: A Codex workflow plugin that analyzes product data, calculates clone-look risk, and generates less-common Musinsa-style outfit recommendations.
+- skills: ./skills/
+
+2. src/skills/musinsa-smell-remover/SKILL.md
+
+Write a clear skill file for Codex.
+
+The skill must explain:
+- This is not a generic fashion chatbot.
+- This is a data-driven clone-look reduction workflow.
+- The plugin reads local product, ranking, review, and user request files.
+- The plugin must calculate Clone Risk Score.
+- The plugin must avoid user-specified disliked style factors.
+- The plugin must explain why each recommendation is less common but still wearable.
+
+Required input files:
+- examples/products.csv
+- examples/rankings.csv
+- examples/reviews.csv
+- examples/user_request.json
+
+Required output files:
+- outputs/clone_risk_scores.csv
+- outputs/recommendation.json
+- outputs/musinsa_smell_removal_report.md
+
+The skill must instruct Codex to:
+1. Read the input files.
+2. Identify avoided style factors.
+3. Calculate Clone Risk Score.
+4. Filter out items that conflict with avoid keywords.
+5. Recommend a balanced outfit within budget.
+6. Explain why the outfit reduces clone-look risk.
+7. Save machine-readable and human-readable outputs.
+
+3. Example data
+
+Create src/examples/products.csv with at least 20 products.
+
+Columns:
+product_id,brand,name,category,color,silhouette,material,price,tags
+
+Create src/examples/rankings.csv.
+
+Columns:
+product_id,rank,popularity_score
+
+Create src/examples/reviews.csv.
+
+Columns:
+product_id,review_keywords,commonness_signal,positive_signal
+
+Create src/examples/user_request.json with this example:
+
+{
+  "user": {
+    "gender": "male",
+    "height_cm": 178,
+    "occasion": "summer date",
+    "budget_krw": 200000,
+    "avoid": [
+      "musinsa smell",
+      "black wide pants",
+      "oversized graphic t-shirt",
+      "german army sneakers"
+    ],
+    "divergence_level": "safe-but-different"
+  }
+}
+
+4. src/tools/clone_risk.py
+
+Use only the Python standard library.
+Do not use pandas or external APIs.
+
+The script must:
+- Read products.csv, rankings.csv, reviews.csv, and user_request.json.
+- Calculate clone_risk_score from 0 to 100 for each product.
+- Increase risk for:
+  - high rank
+  - high popularity_score
+  - high commonness_signal
+  - avoid keyword matches
+  - common style signals such as black, gray, oversized, wide, basic, minimal, street
+- Decrease risk for:
+  - lower ranking
+  - less common materials
+  - non-overfit silhouette
+  - less saturated color choices
+  - lower commonness_signal
+- Save outputs/clone_risk_scores.csv.
+- Include score reasons for each product.
+
+CLI example:
+
+python src/tools/clone_risk.py \
+  --products src/examples/products.csv \
+  --rankings src/examples/rankings.csv \
+  --reviews src/examples/reviews.csv \
+  --request src/examples/user_request.json \
+  --out-dir src/outputs
+
+5. src/tools/outfit_report.py
+
+Use only the Python standard library.
+
+The script must:
+- Read products.csv, clone_risk_scores.csv, and user_request.json.
+- Recommend a 3 to 5 item outfit within budget.
+- Balance categories such as top, bottom, shoes, bag, accessory.
+- Exclude products that directly conflict with avoid keywords.
+- Prefer lower clone risk products while keeping the outfit wearable.
+- Save:
+  - outputs/recommendation.json
+  - outputs/musinsa_smell_removal_report.md
+
+The Markdown report must include:
+
+# Musinsa Smell Remover Report
+## User Request
+## Avoided Style Factors
+## Clone Risk Summary
+## Recommended Outfit
+## Why This Outfit Feels Less Common
+## Budget Check
+## Human Review Notes
+
+CLI example:
+
+python src/tools/outfit_report.py \
+  --products src/examples/products.csv \
+  --scores src/outputs/clone_risk_scores.csv \
+  --request src/examples/user_request.json \
+  --out-dir src/outputs
+
+6. src/tests/test_clone_risk.py
+
+Use unittest.
+
+Tests must verify:
+- clone_risk_score is always between 0 and 100.
+- products matching avoid keywords receive higher risk.
+- clone_risk_scores.csv is generated.
+- recommendation.json is generated.
+- recommended products do not include direct avoid keyword conflicts.
+
+7. README.md
+
+Write README.md in Korean.
+
+Include:
+- Plugin overview
+- Problem definition
+- Who uses it
+- Why "Musinsa smell" is framed as clone-look risk
+- File structure
+- How to run
+- Example commands
+- Generated outputs
+- Validation method
+- Limitations and human review notes
+- Note that logs/ must contain the real full AI conversation log later, and no fake logs are generated.
+
+8. logs/README.md
+
+Write:
+This folder is reserved for the full AI conversation log required for submission. Do not generate fake logs.
+
+9. Run these commands and fix any errors:
+
+python src/tools/clone_risk.py --products src/examples/products.csv --rankings src/examples/rankings.csv --reviews src/examples/reviews.csv --request src/examples/user_request.json --out-dir src/outputs
+
+python src/tools/outfit_report.py --products src/examples/products.csv --scores src/outputs/clone_risk_scores.csv --request src/examples/user_request.json --out-dir src/outputs
+
+python -m unittest discover src/tests
+
+After running, summarize:
+- created files
+- test result
+- generated outputs
+- any limitations
+2. Kakao Pay Securities Prompt
+Plugin name: guru-avatar
+You are a Codex plugin developer.
+
+Build a Codex workflow plugin named:
+
+guru-avatar
+
+Goal:
+Create a Codex plugin that turns stock metrics and investor philosophy templates into beginner-friendly stock judgment reports.
+
+This is not a stock recommendation app.
+This is not a buy/sell signal generator.
+This is a Codex workflow plugin for educational decision support.
+
+The plugin must never provide direct buy, sell, or hold recommendations.
+
+Create the following project structure:
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── guru-avatar/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── guru_lens.py
+│   │   └── compliance_check.py
+│   ├── examples/
+│   │   ├── stock_metrics.csv
+│   │   ├── public_holdings.csv
+│   │   ├── guru_lenses.json
+│   │   └── user_profile.json
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_guru_avatar.py
+├── README.md
+└── logs/
+    └── README.md
+
+Requirements:
+
+1. src/.codex-plugin/plugin.json
+
+Create a valid Codex plugin manifest.
+
+Use:
+- name: guru-avatar
+- version: 1.0.0
+- description: A Codex workflow plugin that turns guru-style investment philosophies into beginner-friendly stock judgment reports without buy, sell, or hold recommendations.
+- skills: ./skills/
+
+2. src/skills/guru-avatar/SKILL.md
+
+Write a clear skill file for Codex.
+
+The skill must explain:
+- This is not a stock recommendation tool.
+- This is an educational research-writing workflow.
+- The plugin translates investor philosophies into judgment questions.
+- It must never recommend buying, selling, or holding.
+- It must never predict future returns.
+- It must always include risk factors, counterarguments, and beginner self-check questions.
+- It must frame all outputs as decision support, not financial advice.
+
+Required input files:
+- examples/stock_metrics.csv
+- examples/public_holdings.csv
+- examples/guru_lenses.json
+- examples/user_profile.json
+
+Required output files:
+- outputs/guru_avatar_report.md
+- outputs/guru_avatar_report.json
+- outputs/investor_questions.md
+- outputs/compliance_check.md
+
+The skill must instruct Codex to:
+1. Read the target ticker from user_profile.json.
+2. Read stock metrics.
+3. Read guru lens definitions.
+4. Generate lens-by-lens educational analysis.
+5. Include supporting signals, caution signals, and investor questions.
+6. Include a beginner safety check.
+7. Run compliance checking before finalizing the report.
+
+3. Example data
+
+Create src/examples/stock_metrics.csv.
+
+Columns:
+ticker,company,sector,revenue_growth,operating_margin,pe_ratio,free_cash_flow,price_change_6m,debt_ratio,dividend_yield,volatility
+
+Include at least these tickers:
+NVDA, TSLA, AAPL, MSFT, KO, JPM, AMZN, COST
+
+Create src/examples/public_holdings.csv.
+
+Columns:
+guru_name,ticker,holding_weight,reported_quarter,notes
+
+Create src/examples/guru_lenses.json.
+
+Include these lenses:
+- Buffett Lens
+  - moat
+  - cash flow
+  - margin of safety
+  - quality
+- Peter Lynch Lens
+  - understandable story
+  - growth
+  - valuation versus growth
+- Dalio Lens
+  - macro cycle
+  - diversification
+  - interest rate sensitivity
+- Momentum Lens
+  - trend
+  - price action
+  - market reaction
+- Dividend Lens
+  - dividend stability
+  - cash flow
+  - defensive quality
+
+Create src/examples/user_profile.json:
+
+{
+  "experience": "beginner",
+  "risk_tolerance": "medium",
+  "time_horizon": "3 years",
+  "target_ticker": "NVDA"
+}
+
+4. src/tools/guru_lens.py
+
+Use only the Python standard library.
+Do not use pandas.
+Do not use external APIs.
+Do not fetch live stock prices.
+
+The script must:
+- Read stock_metrics.csv, public_holdings.csv, guru_lenses.json, and user_profile.json.
+- Generate analysis for the target ticker.
+- Produce both Markdown and JSON reports.
+- For each lens, include:
+  - What this lens checks
+  - Supporting signals
+  - Caution signals
+  - Questions for the investor
+- Include a Beginner Safety Check section.
+- Include a Next Actions section with safe actions only:
+  - add to watchlist
+  - paper trading / mock tracking
+  - review after next earnings
+  - compare position size
+  - compare alternative stocks in the same sector
+- Never output direct buy, sell, or hold recommendations.
+
+CLI example:
+
+python src/tools/guru_lens.py \
+  --metrics src/examples/stock_metrics.csv \
+  --holdings src/examples/public_holdings.csv \
+  --lenses src/examples/guru_lenses.json \
+  --profile src/examples/user_profile.json \
+  --out-dir src/outputs
+
+Outputs:
+- outputs/guru_avatar_report.md
+- outputs/guru_avatar_report.json
+- outputs/investor_questions.md
+
+5. src/tools/compliance_check.py
+
+Use only the Python standard library.
+
+The script must scan the Markdown report for prohibited recommendation-like phrases.
+
+Prohibited examples:
+- buy now
+- sell now
+- strong buy
+- guaranteed
+- guaranteed return
+- target return
+- must buy
+- must sell
+- 지금 매수
+- 지금 매도
+- 무조건
+- 확실한 수익
+- 수익 보장
+- 매수 추천
+- 매도 추천
+- 보유 추천
+
+CLI example:
+
+python src/tools/compliance_check.py \
+  --report src/outputs/guru_avatar_report.md \
+  --out src/outputs/compliance_check.md
+
+The compliance report must include:
+- PASS or FAIL
+- detected risky phrases
+- suggested revision guidance
+
+6. src/tests/test_guru_avatar.py
+
+Use unittest.
+
+Tests must verify:
+- guru_avatar_report.md is generated.
+- guru_avatar_report.json is generated.
+- investor_questions.md is generated.
+- compliance_check.md is generated.
+- the report does not contain prohibited recommendation phrases.
+- every lens includes investor questions.
+- Beginner Safety Check is included.
+- compliance_check.py returns PASS for the generated report.
+
+7. README.md
+
+Write README.md in Korean.
+
+Include:
+- Plugin overview
+- Problem definition
+- Who uses it
+- Why this is not investment advice
+- How the plugin works
+- File structure
+- How to run
+- Example commands
+- Generated outputs
+- Validation method
+- Limitations
+- Human review notes
+- Note that logs/ must contain the real full AI conversation log later, and no fake logs are generated.
+
+8. logs/README.md
+
+Write:
+This folder is reserved for the full AI conversation log required for submission. Do not generate fake logs.
+
+9. Run these commands and fix any errors:
+
+python src/tools/guru_lens.py --metrics src/examples/stock_metrics.csv --holdings src/examples/public_holdings.csv --lenses src/examples/guru_lenses.json --profile src/examples/user_profile.json --out-dir src/outputs
+
+python src/tools/compliance_check.py --report src/outputs/guru_avatar_report.md --out src/outputs/compliance_check.md
+
+python -m unittest discover src/tests
+
+After running, summarize:
+- created files
+- test result
+- generated outputs
+- compliance status
+- any limitations
+3. Samil PwC Prompt
+Recommended plugin name: pbc-paper-chaser
+You are a Codex plugin developer.
+
+Build a Codex workflow plugin named:
+
+pbc-paper-chaser
+
+Goal:
+Create a Codex plugin that interprets audit, tax, and advisory PBC request lists, checks a local evidence manifest, identifies missing or insufficient evidence, and generates a submission readiness report plus follow-up request drafts.
+
+This is not an accounting Q&A chatbot.
+This is not a CFO dashboard.
+This is a workflow plugin for reducing PBC evidence back-and-forth between a professional services team and a client.
+
+PBC means Prepared By Client.
+
+Create the following project structure:
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── pbc-paper-chaser/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── pbc_matcher.py
+│   │   └── report_writer.py
+│   ├── examples/
+│   │   ├── pbc_requests.csv
+│   │   ├── evidence_manifest.csv
+│   │   └── trial_balance.csv
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_pbc_paper_chaser.py
+├── README.md
+└── logs/
+    └── README.md
+
+Requirements:
+
+1. src/.codex-plugin/plugin.json
+
+Create a valid Codex plugin manifest.
+
+Use:
+- name: pbc-paper-chaser
+- version: 1.0.0
+- description: A Codex workflow plugin that turns PBC request lists into evidence checklists, matches local evidence files, and generates submission readiness reports.
+- skills: ./skills/
+
+2. src/skills/pbc-paper-chaser/SKILL.md
+
+Write a clear skill file for Codex.
+
+The skill must explain:
+- This is an audit, tax, and advisory evidence-readiness workflow.
+- This is not a generic finance dashboard.
+- This is not a generic accounting Q&A tool.
+- PBC means Prepared By Client.
+- The plugin interprets PBC request text and checks whether available evidence is ready for submission.
+- The plugin must be conservative.
+- If sufficiency is unclear, mark the item as Needs human review.
+- Never fabricate evidence.
+- Never assume a missing document exists.
+
+Required input files:
+- examples/pbc_requests.csv
+- examples/evidence_manifest.csv
+- examples/trial_balance.csv, if available
+
+Required output files:
+- outputs/submission_package_manifest.json
+- outputs/pbc_evidence_review.md
+- outputs/missing_items.md
+- outputs/followup_email_draft.md
+
+The skill must instruct Codex to:
+1. Read the PBC request list.
+2. Infer each request's purpose.
+3. Decompose each request into required evidence.
+4. Identify required linking keys.
+5. Match available files from the evidence manifest.
+6. Classify each request as:
+   - Ready
+   - Partially ready
+   - Missing
+   - Needs human review
+7. Explain issues and next actions.
+8. Generate follow-up request drafts for missing or insufficient evidence.
+
+3. Example data
+
+Create src/examples/pbc_requests.csv.
+
+Columns:
+request_id,request_text,period,entity
+
+Include at least these five requests:
+
+AR-03:
+2026-03-31 receivables aging report, 90+ day receivables collectability assessment, customer contract terms, and subsequent cash receipts.
+
+CUT-01:
+Contracts, tax invoices, and delivery evidence for selected revenue cutoff test transactions.
+
+JE-02:
+Manual journal entry list, preparer information, reviewer approval logs, and approval dates.
+
+INV-04:
+Inventory valuation allowance calculation support and slow-moving inventory list.
+
+RP-05:
+Related-party transaction listing, contract terms, and settlement evidence.
+
+Create src/examples/evidence_manifest.csv.
+
+Columns:
+file_name,file_type,period,entity,keywords,columns,source,approval_status,notes
+
+Make the sample evidence mixed:
+- some requests should be Ready
+- some should be Partially ready
+- at least one should be Missing or Needs human review
+
+Include examples such as:
+- AR_Aging_20260331.xlsx
+- Bank_Receipts_April.csv
+- Customer_Terms_Top10.pdf
+- Sales_Invoices_March.zip
+- Delivery_Notes_March.pdf
+- Manual_JE_List.xlsx
+- Inventory_Aging_Q1.xlsx
+- Related_Party_Transactions.xlsx
+
+Create src/examples/trial_balance.csv.
+
+Columns:
+account,period,entity,amount
+
+4. src/tools/pbc_matcher.py
+
+Use only the Python standard library.
+Do not use pandas.
+
+The script must:
+- Read pbc_requests.csv.
+- Read evidence_manifest.csv.
+- Optionally read trial_balance.csv.
+- Classify request types:
+  - receivables
+  - cutoff
+  - journal entry
+  - inventory
+  - related party
+- Generate required evidence by request type.
+- Generate required linking keys by request type.
+
+Required keys examples:
+- receivables:
+  customer_id, invoice_id, due_date, amount, receipt_date
+- cutoff:
+  invoice_id, contract_id, shipment_date, revenue_recognition_date
+- journal entry:
+  journal_id, preparer, reviewer, approval_date
+- inventory:
+  item_id, aging_days, nrv, allowance_amount
+- related party:
+  counterparty, contract_id, transaction_amount, terms
+
+The script must match evidence using:
+- keywords
+- file_name
+- columns
+- period
+- entity
+- approval_status
+- source
+
+The script must classify each request as:
+- Ready
+- Partially ready
+- Missing
+- Needs human review
+
+The script must write:
+outputs/submission_package_manifest.json
+
+CLI example:
+
+python src/tools/pbc_matcher.py \
+  --requests src/examples/pbc_requests.csv \
+  --evidence src/examples/evidence_manifest.csv \
+  --trial-balance src/examples/trial_balance.csv \
+  --out src/outputs/submission_package_manifest.json
+
+5. src/tools/report_writer.py
+
+Use only the Python standard library.
+
+The script must:
+- Read outputs/submission_package_manifest.json.
+- Generate:
+  - outputs/pbc_evidence_review.md
+  - outputs/missing_items.md
+  - outputs/followup_email_draft.md
+
+The Markdown report must include:
+
+# PBC Paper Chaser Report
+## Summary
+## Request-by-Request Review
+## Missing or Insufficient Evidence
+## Human Review Notes
+## Submission Readiness
+
+For each request, include:
+- request_id
+- request_text
+- inferred purpose
+- required evidence
+- required keys
+- matched files
+- status
+- issues
+- next actions
+
+CLI example:
+
+python src/tools/report_writer.py \
+  --manifest src/outputs/submission_package_manifest.json \
+  --out-dir src/outputs
+
+6. src/tests/test_pbc_paper_chaser.py
+
+Use unittest.
+
+Tests must verify:
+- submission_package_manifest.json is generated.
+- all five requests are included.
+- at least one request is Ready.
+- at least one request is Partially ready.
+- at least one request is Missing or Needs human review.
+- the AR request includes required keys such as customer_id, invoice_id, due_date, amount.
+- pbc_evidence_review.md is generated.
+- missing_items.md is generated.
+- followup_email_draft.md is generated.
+
+7. README.md
+
+Write README.md in Korean.
+
+Include:
+- Plugin overview
+- Problem definition
+- What PBC means
+- Who uses it
+- Why this niche problem matters
+- How the plugin works
+- File structure
+- How to run
+- Example commands
+- Generated outputs
+- Validation method
+- Limitations
+- Human review notes
+- Note that logs/ must contain the real full AI conversation log later, and no fake logs are generated.
+
+8. logs/README.md
+
+Write:
+This folder is reserved for the full AI conversation log required for submission. Do not generate fake logs.
+
+9. Run these commands and fix any errors:
+
+python src/tools/pbc_matcher.py --requests src/examples/pbc_requests.csv --evidence src/examples/evidence_manifest.csv --trial-balance src/examples/trial_balance.csv --out src/outputs/submission_package_manifest.json
+
+python src/tools/report_writer.py --manifest src/outputs/submission_package_manifest.json --out-dir src/outputs
+
+python -m unittest discover src/tests
+
+After running, summarize:
+- created files
+- test result
+- generated outputs
+- request status summary
+- any limitations
+Zip packaging prompt
+
+이건 셋 다 공통으로 코딩 끝난 뒤 쓰면 됩니다.
+
+Now perform a final submission check.
+
+Required submission structure:
+
+submission.zip
+├── src/
+│   ├── .codex-plugin/plugin.json
+│   ├── skills/<plugin-name>/SKILL.md
+│   └── other executable code, examples, and configuration files
+├── README.md
+└── logs/
+
+Check:
+1. src/.codex-plugin/plugin.json exists.
+2. src/skills/<plugin-name>/SKILL.md exists.
+3. The plugin has at least one real working component beyond plugin.json.
+4. README.md exists at the root.
+5. logs/ exists.
+6. Example inputs exist.
+7. Output files can be generated.
+8. Tests pass.
+9. No API keys, passwords, tokens, or secrets exist.
+10. No fake conversation logs are generated.
+
+Then create submission.zip.
+
+Important:
+If logs/ only contains README.md, keep it that way and clearly state that the real full AI conversation log must be added by the user before final submission.
+
+Finally, print the full file list inside submission.zip.
+질문 5문항 초안 생성 프롬프트
+
+코드 다 만든 다음에 이걸 쓰면 됩니다.
+
+Read README.md, src/.codex-plugin/plugin.json, src/skills/*/SKILL.md, tools, examples, and generated outputs.
+
+Draft answers in Korean for the following five submission questions:
+
+1. What is this plugin, who uses it, and in what situation?
+2. Why did you choose this problem?
+3. How does the plugin work?
+4. How did you use AI?
+5. How did you validate it?
+
+Requirements:
+- Korean
+- 4 to 6 sentences per answer
+- Do not exaggerate.
+- Only describe features that are actually implemented.
+- Make clear that this is a Codex workflow plugin, not a standalone app.
+- Include limitations and human review where appropriate.
+- Keep the tone practical and submission-ready.
+
+최종 이름은 이걸로 가면 제일 자연스럽습니다.
+
+musinsa-smell-remover
+guru-avatar
+pbc-paper-chaser
+
+pbc-paper-chaser는 꽤 좋습니다. 회계법인 실무의 그 “파일 좀 다시 주세요” 지옥을 이름만으로 설명합니다. 슬프지만 정확하죠.
+
+missing-doc-hunter 좋으니 프롬프트 수정
+Thought for 1m 30s
+
+좋습니다. missing-doc-hunter가 더 직관적입니다.
+pbc-paper-chaser는 회계법인 냄새가 강하고, missing-doc-hunter는 **“빠진 증빙 찾아주는 놈”**이라는 기능이 바로 보입니다. 인간이 드디어 이름에서 기능을 읽을 수 있게 됐군요. 작은 진보입니다.
+
+최종 이름은 이렇게 정리하면 됩니다.
+
+musinsa-smell-remover
+guru-avatar
+missing-doc-hunter
+
+아래는 삼일PwC용 프롬프트 수정본입니다. 기존 pbc-paper-chaser 프롬프트 대신 이걸 쓰면 됩니다.
+
+Samil PwC Prompt
+Plugin name: missing-doc-hunter
+You are a Codex plugin developer.
+
+Build a Codex workflow plugin named:
+
+missing-doc-hunter
+
+Goal:
+Create a Codex plugin that interprets audit, tax, and advisory PBC request lists, checks a local evidence manifest, identifies missing or insufficient documents, and generates a submission readiness report plus follow-up request drafts.
+
+This is not an accounting Q&A chatbot.
+This is not a CFO dashboard.
+This is not a generic document search tool.
+
+This is a workflow plugin for reducing evidence back-and-forth between a professional services team and a client.
+
+PBC means Prepared By Client.
+
+Create the following project structure:
+
+.
+├── src/
+│   ├── .codex-plugin/
+│   │   └── plugin.json
+│   ├── skills/
+│   │   └── missing-doc-hunter/
+│   │       └── SKILL.md
+│   ├── tools/
+│   │   ├── doc_matcher.py
+│   │   └── report_writer.py
+│   ├── examples/
+│   │   ├── pbc_requests.csv
+│   │   ├── evidence_manifest.csv
+│   │   └── trial_balance.csv
+│   ├── outputs/
+│   │   └── .gitkeep
+│   └── tests/
+│       └── test_missing_doc_hunter.py
+├── README.md
+└── logs/
+    └── README.md
+
+Requirements:
+
+1. src/.codex-plugin/plugin.json
+
+Create a valid Codex plugin manifest.
+
+Use:
+- name: missing-doc-hunter
+- version: 1.0.0
+- description: A Codex workflow plugin that interprets PBC request lists, finds missing or insufficient evidence documents, and generates submission readiness reports.
+- skills: ./skills/
+
+2. src/skills/missing-doc-hunter/SKILL.md
+
+Write a clear skill file for Codex.
+
+The skill must explain:
+- This is an audit, tax, and advisory evidence-readiness workflow.
+- This is not a generic finance dashboard.
+- This is not a generic accounting Q&A tool.
+- This is not just a file-name search tool.
+- PBC means Prepared By Client.
+- The plugin interprets PBC request text and checks whether available evidence is ready for submission.
+- The plugin hunts for missing, weak, mismatched, or incomplete documents.
+- The plugin must be conservative.
+- If sufficiency is unclear, mark the item as Needs human review.
+- Never fabricate evidence.
+- Never assume a missing document exists.
+
+Required input files:
+- examples/pbc_requests.csv
+- examples/evidence_manifest.csv
+- examples/trial_balance.csv, if available
+
+Required output files:
+- outputs/submission_package_manifest.json
+- outputs/missing_doc_hunter_report.md
+- outputs/missing_items.md
+- outputs/followup_email_draft.md
+
+The skill must instruct Codex to:
+1. Read the PBC request list.
+2. Infer each request's purpose.
+3. Decompose each request into required evidence.
+4. Identify required linking keys.
+5. Match available files from the evidence manifest.
+6. Detect missing, weak, mismatched, or incomplete documents.
+7. Classify each request as:
+   - Ready
+   - Partially ready
+   - Missing
+   - Needs human review
+8. Explain issues and next actions.
+9. Generate follow-up request drafts for missing or insufficient evidence.
+
+3. Example data
+
+Create src/examples/pbc_requests.csv.
+
+Columns:
+request_id,request_text,period,entity
+
+Include at least these five requests:
+
+AR-03:
+2026-03-31 receivables aging report, 90+ day receivables collectability assessment, customer contract terms, and subsequent cash receipts.
+
+CUT-01:
+Contracts, tax invoices, and delivery evidence for selected revenue cutoff test transactions.
+
+JE-02:
+Manual journal entry list, preparer information, reviewer approval logs, and approval dates.
+
+INV-04:
+Inventory valuation allowance calculation support and slow-moving inventory list.
+
+RP-05:
+Related-party transaction listing, contract terms, and settlement evidence.
+
+Create src/examples/evidence_manifest.csv.
+
+Columns:
+file_name,file_type,period,entity,keywords,columns,source,approval_status,notes
+
+Make the sample evidence mixed:
+- some requests should be Ready
+- some should be Partially ready
+- at least one should be Missing
+- at least one should be Needs human review
+
+Include examples such as:
+- AR_Aging_20260331.xlsx
+- Bank_Receipts_April.csv
+- Customer_Terms_Top10.pdf
+- Sales_Invoices_March.zip
+- Delivery_Notes_March.pdf
+- Manual_JE_List.xlsx
+- Inventory_Aging_Q1.xlsx
+- Related_Party_Transactions.xlsx
+- Contract_Terms_Partial.pdf
+- Missing_Approval_Log_Placeholder.txt
+
+Important:
+Do not create fake evidence documents as if they are real source documents.
+The evidence_manifest.csv is enough for the demo.
+The plugin should evaluate the manifest and explain missing or insufficient evidence.
+
+Create src/examples/trial_balance.csv.
+
+Columns:
+account,period,entity,amount
+
+Include sample account rows such as:
+- Accounts receivable
+- Revenue
+- Inventory
+- Related-party receivables
+- Manual journal entries
+
+4. src/tools/doc_matcher.py
+
+Use only the Python standard library.
+Do not use pandas.
+Do not use external APIs.
+
+The script must:
+- Read pbc_requests.csv.
+- Read evidence_manifest.csv.
+- Optionally read trial_balance.csv.
+- Classify request types:
+  - receivables
+  - cutoff
+  - journal entry
+  - inventory
+  - related party
+- Generate required evidence by request type.
+- Generate required linking keys by request type.
+
+Required keys examples:
+
+receivables:
+- customer_id
+- invoice_id
+- due_date
+- amount
+- receipt_date
+
+cutoff:
+- invoice_id
+- contract_id
+- shipment_date
+- revenue_recognition_date
+
+journal entry:
+- journal_id
+- preparer
+- reviewer
+- approval_date
+
+inventory:
+- item_id
+- aging_days
+- nrv
+- allowance_amount
+
+related party:
+- counterparty
+- contract_id
+- transaction_amount
+- terms
+
+The script must match evidence using:
+- keywords
+- file_name
+- columns
+- period
+- entity
+- approval_status
+- source
+
+The script must detect these issue types:
+- missing_document
+- partial_period_mismatch
+- entity_mismatch
+- missing_required_columns
+- missing_approval
+- weak_source
+- needs_manual_judgment
+
+The script must classify each request as:
+- Ready
+- Partially ready
+- Missing
+- Needs human review
+
+Classification guidance:
+- Ready: required evidence appears to be present, period and entity match, key columns exist, and approval/source metadata is acceptable.
+- Partially ready: some evidence exists but required keys, period, entity, or supporting documents are incomplete.
+- Missing: no meaningful evidence is matched to a required request.
+- Needs human review: the match is ambiguous, the source is weak, or sufficiency cannot be determined safely.
+
+The script must write:
+outputs/submission_package_manifest.json
+
+The JSON manifest must include:
+- request_id
+- request_text
+- inferred_purpose
+- request_type
+- required_evidence
+- required_keys
+- matched_files
+- missing_items
+- issues
+- status
+- next_actions
+
+CLI example:
+
+python src/tools/doc_matcher.py \
+  --requests src/examples/pbc_requests.csv \
+  --evidence src/examples/evidence_manifest.csv \
+  --trial-balance src/examples/trial_balance.csv \
+  --out src/outputs/submission_package_manifest.json
+
+5. src/tools/report_writer.py
+
+Use only the Python standard library.
+
+The script must:
+- Read outputs/submission_package_manifest.json.
+- Generate:
+  - outputs/missing_doc_hunter_report.md
+  - outputs/missing_items.md
+  - outputs/followup_email_draft.md
+
+The Markdown report must include:
+
+# Missing Doc Hunter Report
+## Summary
+## Request-by-Request Review
+## Missing or Insufficient Documents
+## Human Review Notes
+## Submission Readiness
+
+For each request, include:
+- request_id
+- request_text
+- inferred purpose
+- request type
+- required evidence
+- required keys
+- matched files
+- status
+- issues
+- missing items
+- next actions
+
+The missing_items.md file must summarize:
+- missing documents
+- weak documents
+- ambiguous documents
+- documents requiring human review
+
+The followup_email_draft.md file must contain a practical internal follow-up email draft asking the client or internal owner for missing evidence.
+
+CLI example:
+
+python src/tools/report_writer.py \
+  --manifest src/outputs/submission_package_manifest.json \
+  --out-dir src/outputs
+
+6. src/tests/test_missing_doc_hunter.py
+
+Use unittest.
+
+Tests must verify:
+- submission_package_manifest.json is generated.
+- all five requests are included.
+- at least one request is Ready.
+- at least one request is Partially ready.
+- at least one request is Missing or Needs human review.
+- the AR request includes required keys such as customer_id, invoice_id, due_date, amount.
+- missing_doc_hunter_report.md is generated.
+- missing_items.md is generated.
+- followup_email_draft.md is generated.
+- the manifest includes issue types such as missing_document or missing_required_columns.
+
+7. README.md
+
+Write README.md in Korean.
+
+Include:
+- Plugin overview
+- Problem definition
+- What PBC means
+- Who uses it
+- Why this niche problem matters
+- Why the plugin is named missing-doc-hunter
+- How the plugin works
+- File structure
+- How to run
+- Example commands
+- Generated outputs
+- Validation method
+- Limitations
+- Human review notes
+- Note that logs/ must contain the real full AI conversation log later, and no fake logs are generated.
+
+README tone:
+- Practical
+- Clear
+- Not overhyped
+- Make clear this is a Codex workflow plugin, not a standalone web app
+
+8. logs/README.md
+
+Write:
+This folder is reserved for the full AI conversation log required for submission. Do not generate fake logs.
+
+9. Run these commands and fix any errors:
+
+python src/tools/doc_matcher.py --requests src/examples/pbc_requests.csv --evidence src/examples/evidence_manifest.csv --trial-balance src/examples/trial_balance.csv --out src/outputs/submission_package_manifest.json
+
+python src/tools/report_writer.py --manifest src/outputs/submission_package_manifest.json --out-dir src/outputs
+
+python -m unittest discover src/tests
+
+After running, summarize:
+- created files
+- test result
+- generated outputs
+- request status summary
+- missing document summary
+- any limitations
+Packaging prompt, same but with the new name
+Now perform a final submission check for the missing-doc-hunter Codex plugin.
+
+Required submission structure:
+
+submission.zip
+├── src/
+│   ├── .codex-plugin/plugin.json
+│   ├── skills/missing-doc-hunter/SKILL.md
+│   └── other executable code, examples, and configuration files
+├── README.md
+└── logs/
+
+Check:
+1. src/.codex-plugin/plugin.json exists.
+2. src/skills/missing-doc-hunter/SKILL.md exists.
+3. The plugin has at least one real working component beyond plugin.json.
+4. README.md exists at the root.
+5. logs/ exists.
+6. Example inputs exist.
+7. Output files can be generated.
+8. Tests pass.
+9. No API keys, passwords, tokens, or secrets exist.
+10. No fake conversation logs are generated.
+
+Then create submission.zip.
+
+Important:
+If logs/ only contains README.md, keep it that way and clearly state that the real full AI conversation log must be added by the user before final submission.
+
+Finally, print the full file list inside submission.zip.
+Submission question prompt, updated name
+Read README.md, src/.codex-plugin/plugin.json, src/skills/missing-doc-hunter/SKILL.md, tools, examples, and generated outputs.
+
+Draft answers in Korean for the following five submission questions:
+
+1. What is this plugin, who uses it, and in what situation?
+2. Why did you choose this problem?
+3. How does the plugin work?
+4. How did you use AI?
+5. How did you validate it?
+
+Requirements:
+- Korean
+- 4 to 6 sentences per answer
+- Do not exaggerate.
+- Only describe features that are actually implemented.
+- Make clear that this is a Codex workflow plugin, not a standalone app.
+- Include limitations and human review where appropriate.
+- Keep the tone practical and submission-ready.
+
+최종 삼일 이름은 missing-doc-hunter로 가면 됩니다.
+기능이 이름에 박혀 있어서 발표 때 설명 비용이 줄어듭니다. 설명 비용 줄이는 건 늘 이득입니다. 인간 심사위원의 집중력은 생각보다 소중하고, 생각보다 짧습니다.
+
+Voice
+ChatGPT is AI and can make mistakes.
+We use cookies
+
+Cookies help this site function, measure usage, and support marketing. Manage your cookie preferences anytime. Learn more about our cookie policy.
+
+Reject non-essential
+Accept all

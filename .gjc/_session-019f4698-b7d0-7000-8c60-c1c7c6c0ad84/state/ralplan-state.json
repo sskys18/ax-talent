@@ -1,0 +1,31 @@
+{
+  "active": false,
+  "version": 2,
+  "current_phase": "handoff",
+  "skill": "ralplan",
+  "cwd": "/Users/sskys/Mine/ax-talent",
+  "updated_at": "2026-07-09T15:06:40.097Z",
+  "session_id": "019f4698-b7d0-7000-8c60-c1c7c6c0ad84",
+  "receipt": {
+    "version": 1,
+    "skill": "ralplan",
+    "owner": "gjc-state-cli",
+    "command": "gjc state ralplan handoff --to ultragoal",
+    "state_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f4698-b7d0-7000-8c60-c1c7c6c0ad84/skill-active-state.json",
+    "storage_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f4698-b7d0-7000-8c60-c1c7c6c0ad84/ralplan-state.json",
+    "mutated_at": "2026-07-09T15:06:40.097Z",
+    "fresh_until": "2026-07-09T15:36:40.097Z",
+    "status": "fresh",
+    "mutation_id": "ralplan:handoff:ultragoal:2026-07-09T15:06:40.097Z",
+    "content_sha256": {
+      "algorithm": "sha256",
+      "value": "33d13ce977e1c949822cf7dea3ca4ab0bd3b4218dccdfe988a4c64729f115459",
+      "covered_path": "/Users/sskys/Mine/ax-talent/.gjc/_session-019f4698-b7d0-7000-8c60-c1c7c6c0ad84/state/ralplan-state.json",
+      "computed_at": "2026-07-09T15:06:40.113Z"
+    }
+  },
+  "run_id": "019f4698-b7d0-7000-8c60-c1c7c6c0ad84",
+  "handoff_to": "ultragoal",
+  "handoff_at": "2026-07-09T15:06:40.097Z",
+  "state_revision": 3
+}

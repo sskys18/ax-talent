@@ -1,0 +1,53 @@
+{
+  "skill": "deep-interview",
+  "phase": "interviewing",
+  "active": true,
+  "activated_at": "2026-07-09T11:46:36.540Z",
+  "updated_at": "2026-07-09T11:46:36.540Z",
+  "session_id": "019f468e-de84-7000-8b8c-f739569c4080",
+  "hud": {
+    "version": 1,
+    "chips": [
+      {
+        "label": "phase",
+        "value": "interviewing",
+        "priority": 10
+      },
+      {
+        "label": "ambiguity",
+        "value": "38%/5%",
+        "priority": 20
+      },
+      {
+        "label": "round",
+        "value": "9",
+        "priority": 30
+      },
+      {
+        "label": "target",
+        "value": "evidence-safety-boundary",
+        "priority": 40
+      },
+      {
+        "label": "weakest",
+        "value": "criteria",
+        "priority": 50
+      }
+    ],
+    "updated_at": "2026-07-09T11:46:36.538Z"
+  },
+  "receipt": {
+    "version": 1,
+    "skill": "deep-interview",
+    "owner": "gjc-state-cli",
+    "command": "gjc state deep-interview write",
+    "state_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f468e-de84-7000-8b8c-f739569c4080/skill-active-state.json",
+    "storage_path": "/Users/sskys/Mine/ax-talent/.gjc/state/sessions/019f468e-de84-7000-8b8c-f739569c4080/deep-interview-state.json",
+    "mutated_at": "2026-07-09T11:46:36.530Z",
+    "fresh_until": "2026-07-09T12:16:36.530Z",
+    "status": "fresh",
+    "mutation_id": "deep-interview:2026-07-09T11:46:36.530Z"
+  },
+  "source_state_revision": 10,
+  "state_revision": 7
+}

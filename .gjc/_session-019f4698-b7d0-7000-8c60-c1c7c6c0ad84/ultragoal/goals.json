@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "brief": "Approved ralplan execution for three separate AX hackathon plugin submissions. Constraints: use real logs only; no fake logs; sanitize missing-doc local paths; create three independent zips; verify live Source URL semantics in Aside before staging; if Source URL means code/package URL and no public URL exists, stop; stage each submission separately; stop before irreversible final submit unless explicit final submit approval is obtained.\n\n@goal: Prepare logs and sanitize submission artifacts\nPrivacy-review the supplied real log sources, place approved real logs into each plugin's logs/ folder, and remediate missing-doc-hunter output JSON so input paths are relative. Verify no local /Users paths remain in packaged outputs.\n\n@goal: Build and validate three independent plugin packages\nCreate separate zip packages for musinsa-smell-remover, guru-avatar, and missing-doc-hunter. Each zip must have one matching top-level folder, include required docs/source/examples/outputs/tests/logs, exclude caches/private files, and pass static validation for non-affiliation, sample data, and overclaim boundaries.\n\n@goal: Verify live form semantics and stage three submissions in Aside\nUse the already-open Aside browser session or Aside CLI to inspect https://hack.primer.kr/rounds/10?mode=, verify whether 출처(URL) expects problem evidence or code/package URL, then fill/stage one draft per plugin with matching form copy and matching zip. If code/package URL is required and unavailable, record a human-blocked blocker instead of guessing.\n\n@goal: Final submit gate and receipt capture\nBefore any irreversible submit, verify explicit final submit approval exists. If not, stop with a durable human-blocked checkpoint describing the staged drafts and approval needed. If approval exists, submit each plugin separately and capture confirmation details.",
+  "gjcGoalMode": "aggregate",
+  "gjcObjective": "Complete the durable ultragoal plan in .gjc/ultragoal/goals.json, including later accepted/appended stories, under the original brief constraints; use .gjc/ultragoal/ledger.jsonl as the audit trail.",
+  "goals": [
+    {
+      "id": "G001",
+      "title": "Prepare logs and sanitize submission artifacts",
+      "objective": "Privacy-review the supplied real log sources, place approved real logs into each plugin's logs/ folder, and remediate missing-doc-hunter output JSON so input paths are relative. Verify no local /Users paths remain in packaged outputs.",
+      "status": "complete",
+      "createdAt": "2026-07-09T15:07:10.102Z",
+      "updatedAt": "2026-07-09T15:26:00.931Z",
+      "pipelineMetadata": {
+        "schemaVersion": 1,
+        "goalId": "G001",
+        "source": "legacy_brief_only",
+        "eligible": false,
+        "dependsOn": [],
+        "independentOf": [],
+        "targets": {
+          "files": [],
+          "surfaces": []
+        },
+        "overlap": "none",
+        "invalidationReason": "missing_pipeline_metadata",
+        "metadataHash": "ee22f050202eddb1df159edbc575f74df1661c7cce97b7394afe3f786d576e94"
+      },
+      "startedAt": "2026-07-09T15:07:14.487Z",
+      "completedAt": "2026-07-09T15:26:00.931Z",
+      "evidence": "G001 complete: real ChatGPT shared conversation log artifacts placed in all three plugin logs folders; old copied Aside JSONL removed; logs README/LOG_SOURCE updated; missing-doc manifest path serialization hardened to PROJECT_ROOT-relative paths; outputs regenerated; all plugin tests passed (musinsa 4 OK, guru 8 OK, missing-doc 11 OK); final reviews approved with no blockers.",
+      "completionVerification": {
+        "schemaVersion": 1,
+        "receiptId": "facdf3ea-3491-4535-b613-0a1eba8d17dd",
+        "verifiedAt": "2026-07-09T15:26:00.931Z",
+        "goalId": "G001",
+        "receiptKind": "per-goal",
+        "goalStatusBeforeCheckpoint": "active",
+        "gjcGoalMode": "aggregate",
+        "gjcObjective": "Complete the durable ultragoal plan in .gjc/ultragoal/goals.json, including later accepted/appended stories, under the original brief constraints; use .gjc/ultragoal/ledger.jsonl as the audit trail.",
+        "qualityGateHash": "817a1f7f2fd0987035315e084d2fd9875400ffdf7b64dcfd830394279fdf0696",
+        "planGeneration": "841a6126972750ae00374c04ac07594a013945d1d9d42e2cf4fd48f34d6433b3",
+        "basis": {
+          "planHashBeforeCheckpoint": "b4c1ccd3ab4c075d3652b6c678764dec3977faa6cae1569cc51adcd23cf9d8a3",
+          "latestRelevantLedgerEventIdBeforeCheckpoint": "1c2ae69b-6956-49c2-a05a-206fdfbdc414",
+          "goalUpdatedAtBeforeCheckpoint": "2026-07-09T15:26:00.931Z",
+          "relevantGoalIdsBeforeCheckpoint": [
+            "G001"
+          ],
+          "requiredGoalSetHashBeforeCheckpoint": "7d4cc6dd98b02e3e5b616e7761be38701f3f2b46bf12b82daffb5fffb1cc3f97"
+        },
+        "checkpointLedgerEventId": "284d06a3-b65e-4ab4-b106-5fc0886995d6"
+      }
+    },
+    {
+      "id": "G002",
+      "title": "Build and validate three independent plugin packages",
+      "objective": "Create separate zip packages for musinsa-smell-remover, guru-avatar, and missing-doc-hunter. Each zip must have one matching top-level folder, include required docs/source/examples/outputs/tests/logs, exclude caches/private files, and pass static validation for non-affiliation, sample data, and overclaim boundaries.",
+      "status": "complete",
+      "createdAt": "2026-07-09T15:07:10.102Z",
+      "updatedAt": "2026-07-09T15:30:24.826Z",
+      "pipelineMetadata": {
+        "schemaVersion": 1,
+        "goalId": "G002",
+        "source": "legacy_brief_only",
+        "eligible": false,
+        "dependsOn": [],
+        "independentOf": [],
+        "targets": {
+          "files": [],
+          "surfaces": []
+        },
+        "overlap": "none",
+        "invalidationReason": "missing_pipeline_metadata",
+        "metadataHash": "32cfce45a81ac11de07e654988bfca107eb12bfd830f685045cb51db5efcc23f"
+      },
+      "startedAt": "2026-07-09T15:26:00.937Z",
+      "completedAt": "2026-07-09T15:30:24.826Z",
+      "evidence": "G002 complete: created submission-zips/musinsa-smell-remover.zip, submission-zips/guru-avatar.zip, submission-zips/missing-doc-hunter.zip. Each zip has one matching top-level folder, required Codex/plugin/log artifacts, no caches/pyc/git/OS metadata, no /Users path leaks. Post-package tests passed for all three plugins and reviews approved with no blockers.",
+      "completionVerification": {
+        "schemaVersion": 1,
+        "receiptId": "2af28917-3ff7-46b0-a28a-fcb08368434e",
+        "verifiedAt": "2026-07-09T15:30:24.826Z",
+        "goalId": "G002",
+        "receiptKind": "per-goal",
+        "goalStatusBeforeCheckpoint": "active",
+        "gjcGoalMode": "aggregate",
+        "gjcObjective": "Complete the durable ultragoal plan in .gjc/ultragoal/goals.json, including later accepted/appended stories, under the original brief constraints; use .gjc/ultragoal/ledger.jsonl as the audit trail.",
+        "qualityGateHash": "82f9c8ff85d46fdaf7e1ee781b3a2d1f756bbd30d3c910cf852a4458fd529c94",
+        "planGeneration": "32285a6f9a19299a58e61e1dfeba1ff55deaf92402039d7779906f1866402226",
+        "basis": {
+          "planHashBeforeCheckpoint": "16476a9f15a93958bae3e575521084e195ee2b72fa651a2d29f0cebcaf754f76",
+          "latestRelevantLedgerEventIdBeforeCheckpoint": "500ccb3d-06ec-419b-83f4-f2bacb01037d",
+          "goalUpdatedAtBeforeCheckpoint": "2026-07-09T15:30:24.826Z",
+          "relevantGoalIdsBeforeCheckpoint": [
+            "G002"
+          ],
+          "requiredGoalSetHashBeforeCheckpoint": "d8a8aa9ef2da378614aee4935e5138bfbac15ec796f6e04c84cc6e837dc703ed"
+        },
+        "checkpointLedgerEventId": "17d02433-d74d-4b44-bbb4-537b3bf82523"
+      }
+    },
+    {
+      "id": "G003",
+      "title": "Verify live form semantics and stage three submissions in Aside",
+      "objective": "Use the already-open Aside browser session or Aside CLI to inspect https://hack.primer.kr/rounds/10?mode=, verify whether 출처(URL) expects problem evidence or code/package URL, then fill/stage one draft per plugin with matching form copy and matching zip. If code/package URL is required and unavailable, record a human-blocked blocker instead of guessing.",
+      "status": "complete",
+      "createdAt": "2026-07-09T15:07:10.102Z",
+      "updatedAt": "2026-07-10T00:29:02.376Z",
+      "pipelineMetadata": {
+        "schemaVersion": 1,
+        "goalId": "G003",
+        "source": "legacy_brief_only",
+        "eligible": false,
+        "dependsOn": [],
+        "independentOf": [],
+        "targets": {
+          "files": [],
+          "surfaces": []
+        },
+        "overlap": "none",
+        "invalidationReason": "missing_pipeline_metadata",
+        "metadataHash": "03494e43474210b53a2e76f8e26bfe9cefa9b14ea4a61ea2ca8b677aabe2af5f"
+      },
+      "startedAt": "2026-07-09T15:30:24.830Z",
+      "completedAt": "2026-07-10T00:29:02.376Z",
+      "evidence": "G003 complete: inspected live Primer form through Aside, verified 출처(URL) belongs to problem-evidence under question 2 rather than code/package URL, prepared three separate ready-to-submit draft payloads in g003-form-answers.json with matching public source URLs and zips, validated answer lengths and zip structure, and confirmed final 제출 was not clicked. Live site exposes no save-draft control, so staging is represented by the durable ready-to-submit payload and zip validation evidence rather than a server-side saved draft.",
+      "completionVerification": {
+        "schemaVersion": 1,
+        "receiptId": "8fcda2b9-579d-440a-9b8b-566015713653",
+        "verifiedAt": "2026-07-10T00:29:02.376Z",
+        "goalId": "G003",
+        "receiptKind": "per-goal",
+        "goalStatusBeforeCheckpoint": "active",
+        "gjcGoalMode": "aggregate",
+        "gjcObjective": "Complete the durable ultragoal plan in .gjc/ultragoal/goals.json, including later accepted/appended stories, under the original brief constraints; use .gjc/ultragoal/ledger.jsonl as the audit trail.",
+        "qualityGateHash": "a0705dd9ffbdc8d43a768ee58619457f2184fdb496b225d0377fd67a39d3cda0",
+        "planGeneration": "5516afc585a9c5c75bd3250d1c8cbbfa89a5f1cc224aaae3166f7ca911630a00",
+        "basis": {
+          "planHashBeforeCheckpoint": "466bd1630a4b47c5bd9951cc6f044f12bdfc9c23f14ea0d74c327188438e8303",
+          "latestRelevantLedgerEventIdBeforeCheckpoint": "a8e372b0-ca50-417a-ae93-a560615b0b7e",
+          "goalUpdatedAtBeforeCheckpoint": "2026-07-10T00:29:02.376Z",
+          "relevantGoalIdsBeforeCheckpoint": [
+            "G003"
+          ],
+          "requiredGoalSetHashBeforeCheckpoint": "7ec3c7c3cbb11158313ad62a4997da45cbcba1725f40b4a33157dd38b10d2ea5"
+        },
+        "checkpointLedgerEventId": "c1e067ce-dbd4-4ff0-abf7-e94806654a7e"
+      }
+    },
+    {
+      "id": "G004",
+      "title": "Final submit gate and receipt capture",
+      "objective": "Before any irreversible submit, verify explicit final submit approval exists. If not, stop with a durable human-blocked checkpoint describing the staged drafts and approval needed. If approval exists, submit each plugin separately and capture confirmation details.",
+      "status": "blocked",
+      "createdAt": "2026-07-09T15:07:10.102Z",
+      "updatedAt": "2026-07-10T00:29:27.008Z",
+      "pipelineMetadata": {
+        "schemaVersion": 1,
+        "goalId": "G004",
+        "source": "legacy_brief_only",
+        "eligible": false,
+        "dependsOn": [],
+        "independentOf": [],
+        "targets": {
+          "files": [],
+          "surfaces": []
+        },
+        "overlap": "none",
+        "invalidationReason": "missing_pipeline_metadata",
+        "metadataHash": "b0dbde7889e36d44f4fc6b78b7c4bb3f3dde659eed4ed6f6b9ae6a285ff53618"
+      },
+      "startedAt": "2026-07-10T00:29:02.383Z",
+      "evidence": "G004 blocked: explicit final-submit approval is required before clicking any irreversible 제출 button. No explicit final-submit approval is present. No submission was clicked. Ready-to-submit assets are g003-form-answers.json plus submission-zips/musinsa-smell-remover.zip, submission-zips/guru-avatar.zip, submission-zips/missing-doc-hunter.zip; supporting evidence is /tmp/g003-live-form-evidence.txt, /tmp/g003-draft-validation.json, /tmp/g003-review-evidence.json, and /tmp/g004-final-submit-blocker.txt. Human-only dependency: user must explicitly approve final submission of all three company submissions or specify a subset."
+    }
+  ],
+  "createdAt": "2026-07-09T15:07:10.102Z",
+  "updatedAt": "2026-07-10T00:29:27.008Z",
+  "state_revision": 9
+}
